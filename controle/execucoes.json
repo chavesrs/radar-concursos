@@ -1,0 +1,38 @@
+{
+ "descricao": "Controle do rodízio de UFs e registro das execuções do Radar de Concursos. Lido e atualizado pela tarefa diária.",
+ "ordem_rodizio": ["SP", "BA", "PA", "SC", "PI", "AP", "MG", "PE", "AM", "GO", "RN", "RR", "RJ", "CE", "MT", "RS", "PB", "AC", "PR", "MA", "MS", "ES", "AL", "RO", "DF", "SE", "TO"],
+ "ufs_por_execucao": 6,
+ "proxima_posicao": 0,
+ "execucoes": [
+  {
+   "data": "2026-10-25",
+   "tipo": "tarefa diária",
+   "inicio": "2026-10-25T09:56:00Z",
+   "fim": "2026-10-25T10:02:52Z",
+   "ufs_pesquisadas": null,
+   "registros_antes": 25,
+   "registros_depois": 113,
+   "novos": 88,
+   "alterados": null,
+   "removidos": 0,
+   "painel_atualizado": true,
+   "github_atualizado": false,
+   "falhas": ["Execução feita com a versão anterior do prompt, que não gravava no GitHub."],
+   "nota": "Anterior a este controle: UFs pesquisadas e registros alterados não foram registrados."
+  },
+  {
+   "data": "2026-10-25",
+   "tipo": "sincronização manual",
+   "ufs_pesquisadas": [],
+   "registros_antes": 113,
+   "registros_depois": 113,
+   "novos": 0,
+   "alterados": 113,
+   "removidos": 0,
+   "painel_atualizado": true,
+   "github_atualizado": true,
+   "falhas": [],
+   "nota": "GitHub sincronizado com o painel e acrescidos os campos nivel_confirmacao, fonte_oficial, verificado_em e edital. Nenhuma pesquisa nova: só 3 registros têm conferência em fonte oficial."
+  }
+ ]
+}
