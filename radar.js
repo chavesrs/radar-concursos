@@ -11,6 +11,7 @@
     'https://cdn.jsdelivr.net/gh/chavesrs/radar-concursos@main/concursos.json'
   ];
   var ORDEM = { 'Inscrições abertas': 0, 'Inscrições em breve': 1, 'Previsto': 2, 'Inscrições encerradas': 3 };
+  var ESFERAS = [['Federal', 'Federal / Nacional'], ['Estadual', 'Estadual'], ['Municipal', 'Municipal']];
 
   var CSS = [
     '#radar-concursos{font-size:15px;line-height:1.45}',
@@ -18,6 +19,7 @@
     '#radar-concursos .rcw-filtros{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:12px}',
     '#radar-concursos .rcw-filtros input,#radar-concursos .rcw-filtros select{padding:8px 10px;border:1px solid #ccd3dc;border-radius:6px;font:inherit;background:#fff;margin:0}',
     '#radar-concursos .rcw-q{flex:1 1 220px;min-width:0}',
+    '#radar-concursos .rcw-filtros select{flex:1 1 150px;min-width:0}',
     '#radar-concursos .rcw-card{border:1px solid #e1e6ec;border-radius:8px;padding:12px 14px;margin-bottom:10px;background:#fff}',
     '#radar-concursos .rcw-card.urgente{border-left:4px solid #d9822b}',
     '#radar-concursos .rcw-topo{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;align-items:baseline}',
@@ -68,11 +70,16 @@
     sit.setAttribute('aria-label', 'Situação');
     sit.appendChild(opcao('', 'Todas as situações'));
     Object.keys(ORDEM).forEach(function (s) { sit.appendChild(opcao(s, s)); });
+    var esf = el('select', 'rcw-esf');
+    esf.setAttribute('aria-label', 'Esfera');
+    esf.appendChild(opcao('', 'Todas as esferas'));
+    ESFERAS.forEach(function (e) { esf.appendChild(opcao(e[0], e[1])); });
     var uf = el('select', 'rcw-uf');
     uf.setAttribute('aria-label', 'UF');
     uf.appendChild(opcao('', 'Todas as UFs'));
     filtros.appendChild(q);
     filtros.appendChild(sit);
+    filtros.appendChild(esf);
     filtros.appendChild(uf);
     var lista = el('div', 'rcw-lista');
     var rodape = el('p', 'rcw-rodape');
@@ -89,9 +96,11 @@
       var termo = q.value.trim().toLowerCase();
       var s = sit.value;
       var u = uf.value;
+      var e = esf.value;
       lista.innerHTML = '';
       var rows = dados.filter(function (r) {
         if (s && r.situacao !== s) return false;
+        if (e && r.esfera !== e) return false;
         if (u && r.uf !== u) return false;
         if (termo) {
           var texto = [r.orgao, r.cargo, r.uf, r.banca, r.disciplinas].join(' ').toLowerCase();
@@ -167,6 +176,7 @@
 
     q.addEventListener('input', desenhar);
     sit.addEventListener('change', desenhar);
+    esf.addEventListener('change', desenhar);
     uf.addEventListener('change', desenhar);
     carregar(0);
   }
