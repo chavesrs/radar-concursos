@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 0,
+ "proxima_posicao": 6,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -77,6 +77,49 @@
    "github_atualizado": true,
    "falhas": [],
    "nota": "Incluída a Câmara Municipal de Ponta Porã (MS), Contador, Cebraspe, apontada pelo Renato. Inscrições encerradas em 01/10; prova em 01/11."
+  },
+  {
+   "data": "2026-10-26",
+   "tipo": "tarefa diária",
+   "inicio": "2026-10-26T09:55:33Z",
+   "fim": "2026-10-26T10:05:00Z",
+   "ufs_pesquisadas": [
+    "SP",
+    "BA",
+    "PA",
+    "SC",
+    "PI",
+    "AP"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 34,
+   "concursos_examinados": 28,
+   "registros_antes": 114,
+   "registros_depois": 128,
+   "novos": 14,
+   "alterados": 6,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 2,
+   "pendentes_de_verificacao": 123,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/fa58817550e581603e17b34b6570fd9a",
+   "github_atualizado": false,
+   "falhas": [
+    "Push para o GitHub negado (403): o repositório chavesrs/radar-concursos não está entre os repositórios autorizados desta sessão (ferramenta add_repo indisponível); commit feito só localmente.",
+    "Páginas da FCC, Fundatec, Objetiva, Consulplan e Comperve recusaram WebFetch (robots/erro); confirmação oficial não foi possível nesses casos."
+   ],
+   "nota": "14 novos (13 municipais/conselho + TCE-AP previsto). TCE-AC e TCDF conferidos em editais da Cebraspe. Curitiba (nível superior) passou a 'Inscrições encerradas'. Processos seletivos simplificados (Navegantes, Dores do Rio Preto, FCC/SC, CREFs da 23ª-27ª) e CIDENNF (prova em 18/10) não incluídos."
   }
  ]
 }
