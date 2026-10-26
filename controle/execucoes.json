@@ -125,7 +125,7 @@
    "data": "2026-10-26",
    "tipo": "tarefa diária",
    "inicio": "2026-10-26T18:32:06Z",
-   "fim": "2026-10-26T18:36:09Z",
+   "fim": "2026-10-26T18:37:00Z",
    "ufs_pesquisadas": [
     "MG",
     "PE",
@@ -155,15 +155,15 @@
    "removidos": 0,
    "confirmados_oficialmente_hoje": 0,
    "pendentes_de_verificacao": 125,
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/7671577782f2c5ee2a4b1b430a75f5b7",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "b27b5a14913d6b3b2826de8b33a7d4afb654a05d",
    "falhas": [
     "Divergência de sincronização no início: concursos.json do GitHub (128 registros) diferente do painel (134 registros, execução das ~14h que não chegou ao GitHub); usado o do painel como base.",
     "WebFetch indisponível nesta sessão (DNS/rede bloqueada para sites de bancas e agregadores); nenhum edital aberto, nenhuma confirmação oficial possível. Bancas 'consultadas no site' só por busca restrita ao domínio."
    ],
-   "nota": "Primeira execução da tarefa vinculada à sessão (disparo manual de teste). Novos: TRT 8 (Analista – Contabilidade, FCC, inscrições até 05/11) e Câmara de Matos Costa/SC (Contador, Instituto DOM, até 26/11). Alterados: Câmara de Paraíso das Águas/MS (banca, vaga, salário, prova 22/11) e TCE-AC (observação sobre reabertura). TRT 4 (FCC) com informações conflitantes; não incluído. A execução das ~14h (não registrada) pode ter coberto as mesmas UFs."
+   "nota": "Primeira execução da tarefa vinculada à sessão (disparo manual de teste). Novos: TRT 8 (Analista – Contabilidade, FCC, inscrições até 05/11) e Câmara de Matos Costa/SC (Contador, Instituto DOM, até 26/11). Alterados: Câmara de Paraíso das Águas/MS (banca, vaga, salário, prova 22/11) e TCE-AC (observação sobre reabertura). TRT 4 (FCC) com informações conflitantes; não incluído. A execução das ~14h (não registrada) pode ter coberto as mesmas UFs. GitHub e painel com o mesmo arquivo (sha256 357f1c25…)."
   }
  ]
 }
