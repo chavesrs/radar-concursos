@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 6,
+ "proxima_posicao": 12,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -120,6 +120,50 @@
     "Páginas da FCC, Fundatec, Objetiva, Consulplan e Comperve recusaram WebFetch (robots/erro); confirmação oficial não foi possível nesses casos."
    ],
    "nota": "14 novos (13 municipais/conselho + TCE-AP previsto). TCE-AC e TCDF conferidos em editais da Cebraspe. Curitiba (nível superior) passou a 'Inscrições encerradas'. Processos seletivos simplificados (Navegantes, Dores do Rio Preto, FCC/SC, CREFs da 23ª-27ª) e CIDENNF (prova em 18/10) não incluídos."
+  },
+  {
+   "data": "2026-10-26",
+   "tipo": "tarefa diária",
+   "inicio": "2026-10-26T18:32:06Z",
+   "fim": "2026-10-26T18:36:09Z",
+   "ufs_pesquisadas": [
+    "MG",
+    "PE",
+    "AM",
+    "GO",
+    "RN",
+    "RR"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 37,
+   "concursos_examinados": 78,
+   "registros_antes": 134,
+   "registros_depois": 136,
+   "novos": 2,
+   "alterados": 2,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 0,
+   "pendentes_de_verificacao": 125,
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [
+    "Divergência de sincronização no início: concursos.json do GitHub (128 registros) diferente do painel (134 registros, execução das ~14h que não chegou ao GitHub); usado o do painel como base.",
+    "WebFetch indisponível nesta sessão (DNS/rede bloqueada para sites de bancas e agregadores); nenhum edital aberto, nenhuma confirmação oficial possível. Bancas 'consultadas no site' só por busca restrita ao domínio."
+   ],
+   "nota": "Primeira execução da tarefa vinculada à sessão (disparo manual de teste). Novos: TRT 8 (Analista – Contabilidade, FCC, inscrições até 05/11) e Câmara de Matos Costa/SC (Contador, Instituto DOM, até 26/11). Alterados: Câmara de Paraíso das Águas/MS (banca, vaga, salário, prova 22/11) e TCE-AC (observação sobre reabertura). TRT 4 (FCC) com informações conflitantes; não incluído. A execução das ~14h (não registrada) pode ter coberto as mesmas UFs."
   }
  ]
 }
