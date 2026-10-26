@@ -2597,5 +2597,28 @@
   "fonte_oficial": null,
   "verificado_em": null,
   "edital": null
+ },
+ {
+  "id": "camara-ponta-pora-ms-2026",
+  "orgao": "Câmara Municipal de Ponta Porã (MS)",
+  "cargo": "Contador",
+  "esfera": "Municipal",
+  "uf": "MS",
+  "banca": "Cebraspe",
+  "vagas": 1,
+  "salario": 7999.59,
+  "inscricoes_inicio": null,
+  "inscricoes_fim": "2026-10-01",
+  "prova": "2026-11-01",
+  "situacao": "Inscrições encerradas",
+  "disciplinas": "A conferir no edital",
+  "conteudo": "A confirmar",
+  "fonte": "https://concursos.estrategia.com/portal/concurso-camara-de-ponta-pora-ms/",
+  "observacao": "1 vaga + cadastro de reserva. Inscrições prorrogadas até 01/10. Edital do Cebraspe localizado, mas não foi possível abri-lo para conferência.",
+  "atualizado_em": "2026-10-25",
+  "nivel_confirmacao": "Fonte secundária",
+  "fonte_oficial": null,
+  "verificado_em": null,
+  "edital": "1/2026"
  }
 ]

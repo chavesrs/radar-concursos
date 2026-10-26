@@ -1,6 +1,34 @@
 {
  "descricao": "Controle do rodízio de UFs e registro das execuções do Radar de Concursos. Lido e atualizado pela tarefa diária.",
- "ordem_rodizio": ["SP", "BA", "PA", "SC", "PI", "AP", "MG", "PE", "AM", "GO", "RN", "RR", "RJ", "CE", "MT", "RS", "PB", "AC", "PR", "MA", "MS", "ES", "AL", "RO", "DF", "SE", "TO"],
+ "ordem_rodizio": [
+  "SP",
+  "BA",
+  "PA",
+  "SC",
+  "PI",
+  "AP",
+  "MG",
+  "PE",
+  "AM",
+  "GO",
+  "RN",
+  "RR",
+  "RJ",
+  "CE",
+  "MT",
+  "RS",
+  "PB",
+  "AC",
+  "PR",
+  "MA",
+  "MS",
+  "ES",
+  "AL",
+  "RO",
+  "DF",
+  "SE",
+  "TO"
+ ],
  "ufs_por_execucao": 6,
  "proxima_posicao": 0,
  "execucoes": [
@@ -17,7 +45,9 @@
    "removidos": 0,
    "painel_atualizado": true,
    "github_atualizado": false,
-   "falhas": ["Execução feita com a versão anterior do prompt, que não gravava no GitHub."],
+   "falhas": [
+    "Execução feita com a versão anterior do prompt, que não gravava no GitHub."
+   ],
    "nota": "Anterior a este controle: UFs pesquisadas e registros alterados não foram registrados."
   },
   {
@@ -33,6 +63,20 @@
    "github_atualizado": true,
    "falhas": [],
    "nota": "GitHub sincronizado com o painel e acrescidos os campos nivel_confirmacao, fonte_oficial, verificado_em e edital. Nenhuma pesquisa nova: só 3 registros têm conferência em fonte oficial."
+  },
+  {
+   "data": "2026-10-25",
+   "tipo": "inclusão manual",
+   "ufs_pesquisadas": [],
+   "registros_antes": 113,
+   "registros_depois": 114,
+   "novos": 1,
+   "alterados": 0,
+   "removidos": 0,
+   "painel_atualizado": true,
+   "github_atualizado": true,
+   "falhas": [],
+   "nota": "Incluída a Câmara Municipal de Ponta Porã (MS), Contador, Cebraspe, apontada pelo Renato. Inscrições encerradas em 01/10; prova em 01/11."
   }
  ]
 }
