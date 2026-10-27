@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 12,
+ "proxima_posicao": 18,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -164,6 +164,59 @@
     "WebFetch indisponível nesta sessão (DNS/rede bloqueada para sites de bancas e agregadores); nenhum edital aberto, nenhuma confirmação oficial possível. Bancas 'consultadas no site' só por busca restrita ao domínio."
    ],
    "nota": "Primeira execução da tarefa vinculada à sessão (disparo manual de teste). Novos: TRT 8 (Analista – Contabilidade, FCC, inscrições até 05/11) e Câmara de Matos Costa/SC (Contador, Instituto DOM, até 26/11). Alterados: Câmara de Paraíso das Águas/MS (banca, vaga, salário, prova 22/11) e TCE-AC (observação sobre reabertura). TRT 4 (FCC) com informações conflitantes; não incluído. A execução das ~14h (não registrada) pode ter coberto as mesmas UFs. GitHub e painel com o mesmo arquivo (sha256 357f1c25…)."
+  },
+  {
+   "data": "2026-10-27",
+   "tipo": "tarefa diária",
+   "inicio": "2026-10-27T09:56:31Z",
+   "fim": "2026-10-27T10:02:02Z",
+   "ufs_pesquisadas": [
+    "RJ",
+    "CE",
+    "MT",
+    "RS",
+    "PB",
+    "AC"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 32,
+   "concursos_examinados": 85,
+   "editais_lidos": 11,
+   "registros_antes": 136,
+   "registros_depois": 136,
+   "novos": 0,
+   "alterados": 13,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 4,
+   "pendentes_de_verificacao": 122,
+   "fontes_inacessiveis": [
+    "www.vunesp.com.br: bloqueio do site (Akamai 403)",
+    "www.institutodom.com: bloqueio da rede (proxy 403)",
+    "www.concursos.ufmt.br: bloqueio da rede (proxy 403)",
+    "portal.institutolegalle.com.br: bloqueio da rede (proxy 403)",
+    "cpcon.uepb.edu.br: erro do site (conexão reiniciada)",
+    "www.comperve.ufrn.br: erro do site (certificado TLS sem cadeia válida)",
+    "WebFetch: limitação da ferramenta (DNS); leitura feita com curl + pdftotext"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [
+    "TCE-MA: edital consolidado lido, mas a remuneração do Auditor não foi localizada com segurança; registro mantido como fonte secundária (aviso do validador permanece)."
+   ],
+   "nota": "Confirmados por leitura do edital: TRT 8 (Analista – Contabilidade), Sefaz SP (APOFP; prova adiada para 20/12 pela retificação de 22/10), TCE GO (Técnico de Controle Externo) e TJPB (reconfirmado no edital retificado de 23/10: 5 vagas, R$ 7.526,14). 9 registros com situação ajustada às datas (inscrições encerradas em 26/10 ou abertas a partir de 27/10). Nenhum concurso novo relevante encontrado."
   }
  ]
 }
