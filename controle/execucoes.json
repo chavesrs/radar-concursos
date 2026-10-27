@@ -169,7 +169,7 @@
    "data": "2026-10-27",
    "tipo": "tarefa diária",
    "inicio": "2026-10-27T09:56:31Z",
-   "fim": "2026-10-27T10:02:02Z",
+   "fim": "2026-10-27T10:02:40Z",
    "ufs_pesquisadas": [
     "RJ",
     "CE",
@@ -209,14 +209,14 @@
     "www.comperve.ufrn.br: erro do site (certificado TLS sem cadeia válida)",
     "WebFetch: limitação da ferramenta (DNS); leitura feita com curl + pdftotext"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/96af45c1607496148825636b28e56549",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "9bed3674d7de16151f5e05df43e8b4630c53a3bc",
    "falhas": [
     "TCE-MA: edital consolidado lido, mas a remuneração do Auditor não foi localizada com segurança; registro mantido como fonte secundária (aviso do validador permanece)."
    ],
-   "nota": "Confirmados por leitura do edital: TRT 8 (Analista – Contabilidade), Sefaz SP (APOFP; prova adiada para 20/12 pela retificação de 22/10), TCE GO (Técnico de Controle Externo) e TJPB (reconfirmado no edital retificado de 23/10: 5 vagas, R$ 7.526,14). 9 registros com situação ajustada às datas (inscrições encerradas em 26/10 ou abertas a partir de 27/10). Nenhum concurso novo relevante encontrado."
+   "nota": "Confirmados por leitura do edital: TRT 8 (Analista – Contabilidade), Sefaz SP (APOFP; prova adiada para 20/12 pela retificação de 22/10), TCE GO (Técnico de Controle Externo) e TJPB (reconfirmado no edital retificado de 23/10: 5 vagas, R$ 7.526,14). 9 registros com situação ajustada às datas (inscrições encerradas em 26/10 ou abertas a partir de 27/10). Nenhum concurso novo relevante encontrado. GitHub e painel com o mesmo arquivo (sha256 6e5e2450…)."
   }
  ]
 }
