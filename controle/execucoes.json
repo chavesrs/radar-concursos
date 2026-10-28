@@ -222,7 +222,7 @@
    "data": "2026-10-28",
    "tipo": "tarefa diária",
    "inicio": "2026-10-28T09:57:02Z",
-   "fim": "2026-10-28T10:00:06Z",
+   "fim": "2026-10-28T10:00:45Z",
    "ufs_pesquisadas": [
     "PR",
     "MA",
@@ -258,12 +258,12 @@
     "www2.fundatec.org.br e www.fundatec.org.br: bloqueio do site (desafio AWS WAF, 202 sem conteúdo)",
     "WebFetch: limitação da ferramenta (DNS); leitura feita com curl + pdftotext"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/3fd498da26edcfc86944ef749e62fc41",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "43bcb0c626c8028278ae4817ac6215d02a7e8b2f",
    "falhas": [],
-   "nota": "Novo confirmado no edital: TRT 4 (Analista – Contabilidade, FCC; inscrições 26/10 a 25/11; prova 31/01/2027). Novo por fonte secundária: Prefeitura de São Joaquim da Barra/SP (Contador CR, INDEPAC; inscrições encerradas em 20/10; prova 01/11). Atualizados por fonte secundária: UFBA (banca, 2 vagas, prova 20/12), Louveira (banca, 1 vaga, R$ 8.738, prova 17/01/2027), Montenegro (banca, edital C/97/2026, prova 12/12). 10 registros passaram a 'Inscrições encerradas' (fim em 27/10)."
+   "nota": "Novo confirmado no edital: TRT 4 (Analista – Contabilidade, FCC; inscrições 26/10 a 25/11; prova 31/01/2027). Novo por fonte secundária: Prefeitura de São Joaquim da Barra/SP (Contador CR, INDEPAC; inscrições encerradas em 20/10; prova 01/11). Atualizados por fonte secundária: UFBA (banca, 2 vagas, prova 20/12), Louveira (banca, 1 vaga, R$ 8.738, prova 17/01/2027), Montenegro (banca, edital C/97/2026, prova 12/12). 10 registros passaram a 'Inscrições encerradas' (fim em 27/10). GitHub e painel com o mesmo arquivo (sha256 9df5d00d…)."
   }
  ]
 }
