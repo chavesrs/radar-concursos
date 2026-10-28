@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 18,
+ "proxima_posicao": 24,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -217,6 +217,53 @@
     "TCE-MA: edital consolidado lido, mas a remuneração do Auditor não foi localizada com segurança; registro mantido como fonte secundária (aviso do validador permanece)."
    ],
    "nota": "Confirmados por leitura do edital: TRT 8 (Analista – Contabilidade), Sefaz SP (APOFP; prova adiada para 20/12 pela retificação de 22/10), TCE GO (Técnico de Controle Externo) e TJPB (reconfirmado no edital retificado de 23/10: 5 vagas, R$ 7.526,14). 9 registros com situação ajustada às datas (inscrições encerradas em 26/10 ou abertas a partir de 27/10). Nenhum concurso novo relevante encontrado. GitHub e painel com o mesmo arquivo (sha256 6e5e2450…)."
+  },
+  {
+   "data": "2026-10-28",
+   "tipo": "tarefa diária",
+   "inicio": "2026-10-28T09:57:02Z",
+   "fim": "2026-10-28T10:00:06Z",
+   "ufs_pesquisadas": [
+    "PR",
+    "MA",
+    "MS",
+    "ES",
+    "AL",
+    "RO"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 80,
+   "editais_lidos": 2,
+   "registros_antes": 136,
+   "registros_depois": 138,
+   "novos": 2,
+   "alterados": 13,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 1,
+   "pendentes_de_verificacao": 123,
+   "fontes_inacessiveis": [
+    "www.vunesp.com.br: bloqueio do site (Akamai 403)",
+    "www2.fundatec.org.br e www.fundatec.org.br: bloqueio do site (desafio AWS WAF, 202 sem conteúdo)",
+    "WebFetch: limitação da ferramenta (DNS); leitura feita com curl + pdftotext"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Novo confirmado no edital: TRT 4 (Analista – Contabilidade, FCC; inscrições 26/10 a 25/11; prova 31/01/2027). Novo por fonte secundária: Prefeitura de São Joaquim da Barra/SP (Contador CR, INDEPAC; inscrições encerradas em 20/10; prova 01/11). Atualizados por fonte secundária: UFBA (banca, 2 vagas, prova 20/12), Louveira (banca, 1 vaga, R$ 8.738, prova 17/01/2027), Montenegro (banca, edital C/97/2026, prova 12/12). 10 registros passaram a 'Inscrições encerradas' (fim em 27/10)."
   }
  ]
 }
