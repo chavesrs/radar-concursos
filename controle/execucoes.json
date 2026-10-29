@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 24,
+ "proxima_posicao": 3,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -264,6 +264,54 @@
    "github_commit": "43bcb0c626c8028278ae4817ac6215d02a7e8b2f",
    "falhas": [],
    "nota": "Novo confirmado no edital: TRT 4 (Analista – Contabilidade, FCC; inscrições 26/10 a 25/11; prova 31/01/2027). Novo por fonte secundária: Prefeitura de São Joaquim da Barra/SP (Contador CR, INDEPAC; inscrições encerradas em 20/10; prova 01/11). Atualizados por fonte secundária: UFBA (banca, 2 vagas, prova 20/12), Louveira (banca, 1 vaga, R$ 8.738, prova 17/01/2027), Montenegro (banca, edital C/97/2026, prova 12/12). 10 registros passaram a 'Inscrições encerradas' (fim em 27/10). GitHub e painel com o mesmo arquivo (sha256 9df5d00d…)."
+  },
+  {
+   "data": "2026-10-29",
+   "tipo": "tarefa diária",
+   "inicio": "2026-10-29T09:56:34Z",
+   "fim": "2026-10-29T09:58:51Z",
+   "ufs_pesquisadas": [
+    "DF",
+    "SE",
+    "TO",
+    "SP",
+    "BA",
+    "PA"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 75,
+   "editais_lidos": 0,
+   "registros_antes": 138,
+   "registros_depois": 139,
+   "novos": 1,
+   "alterados": 9,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 0,
+   "pendentes_de_verificacao": 124,
+   "fontes_inacessiveis": [
+    "www.vunesp.com.br: bloqueio do site (Akamai 403)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext disponível"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [
+    "Nenhum edital oficial novo localizado nas bancas acessíveis hoje; nenhuma confirmação oficial realizada."
+   ],
+   "nota": "Novo por fonte secundária: Câmara de Cuiabá/MT (Contador; Controlador Interno; Selecon; inscrições 29/10 a 30/11; prova 13/12). Atualizados por fonte secundária: Câmara de Rio Azul/PR (prova 22/11, mantém o registro), Câmara de Divisa Nova/MG, Birigui/SP, Lucélia/SP (prova 08/11), Câmara de Jarinu/SP (inclui Analista de Finanças e Orçamento; prova 22/11). 4 registros com situação ajustada às datas. Realeza/PR sem edital confirmado, não incluído."
   }
  ]
 }
