@@ -269,7 +269,7 @@
    "data": "2026-10-29",
    "tipo": "tarefa diária",
    "inicio": "2026-10-29T09:56:34Z",
-   "fim": "2026-10-29T09:58:51Z",
+   "fim": "2026-10-29T09:59:30Z",
    "ufs_pesquisadas": [
     "DF",
     "SE",
@@ -304,14 +304,14 @@
     "www.vunesp.com.br: bloqueio do site (Akamai 403)",
     "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext disponível"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/d807c73e3a0cd97dd2b9550ec49251fa",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "622ca740ab03fadce9795ef8ef5e367fc164d171",
    "falhas": [
     "Nenhum edital oficial novo localizado nas bancas acessíveis hoje; nenhuma confirmação oficial realizada."
    ],
-   "nota": "Novo por fonte secundária: Câmara de Cuiabá/MT (Contador; Controlador Interno; Selecon; inscrições 29/10 a 30/11; prova 13/12). Atualizados por fonte secundária: Câmara de Rio Azul/PR (prova 22/11, mantém o registro), Câmara de Divisa Nova/MG, Birigui/SP, Lucélia/SP (prova 08/11), Câmara de Jarinu/SP (inclui Analista de Finanças e Orçamento; prova 22/11). 4 registros com situação ajustada às datas. Realeza/PR sem edital confirmado, não incluído."
+   "nota": "Novo por fonte secundária: Câmara de Cuiabá/MT (Contador; Controlador Interno; Selecon; inscrições 29/10 a 30/11; prova 13/12). Atualizados por fonte secundária: Câmara de Rio Azul/PR (prova 22/11, mantém o registro), Câmara de Divisa Nova/MG, Birigui/SP, Lucélia/SP (prova 08/11), Câmara de Jarinu/SP (inclui Analista de Finanças e Orçamento; prova 22/11). 4 registros com situação ajustada às datas. Realeza/PR sem edital confirmado, não incluído. GitHub e painel com o mesmo arquivo (sha256 87b48fd9…)."
   }
  ]
 }
