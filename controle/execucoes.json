@@ -317,7 +317,7 @@
    "data": "2026-10-30",
    "tipo": "tarefa diária",
    "inicio": "2026-10-30T09:56:01Z",
-   "fim": "2026-10-30T09:58:29Z",
+   "fim": "2026-10-30T09:59:05Z",
    "ufs_pesquisadas": [
     "SC",
     "PI",
@@ -353,14 +353,14 @@
     "www.fundatec.org.br: bloqueio do site (desafio AWS WAF)",
     "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext disponível"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/b47f089eb76e4579eb6055c73f53d137",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "aaa009facf0e08b0b91a48fe47fe3489d07f6491",
    "falhas": [
     "Nenhum edital oficial novo localizado nas bancas acessíveis hoje; nenhuma confirmação oficial realizada."
    ],
-   "nota": "Novo por fonte secundária: PREVIJUÍ/RS (Contador CR, Fundatec, inscrições até 19/11). Clementina, Descanso e Bela Vista do Piauí seriam excluídos por falta de data de prova; a busca encontrou as provas (22/11, 21/11 e 06/12) e eles foram mantidos com dados atualizados (Descanso: cargo é Controlador Interno). 8 registros com situação ajustada às datas. CGM Fortaleza (2024), Campo Grande do Piauí e Câmara de Laranjal (Contador não confirmado) não incluídos."
+   "nota": "Novo por fonte secundária: PREVIJUÍ/RS (Contador CR, Fundatec, inscrições até 19/11). Clementina, Descanso e Bela Vista do Piauí seriam excluídos por falta de data de prova; a busca encontrou as provas (22/11, 21/11 e 06/12) e eles foram mantidos com dados atualizados (Descanso: cargo é Controlador Interno). 8 registros com situação ajustada às datas. CGM Fortaleza (2024), Campo Grande do Piauí e Câmara de Laranjal (Contador não confirmado) não incluídos. GitHub e painel com o mesmo arquivo (sha256 0d38141e…)."
   }
  ]
 }
