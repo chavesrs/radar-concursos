@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 3,
+ "proxima_posicao": 9,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -312,6 +312,55 @@
     "Nenhum edital oficial novo localizado nas bancas acessíveis hoje; nenhuma confirmação oficial realizada."
    ],
    "nota": "Novo por fonte secundária: Câmara de Cuiabá/MT (Contador; Controlador Interno; Selecon; inscrições 29/10 a 30/11; prova 13/12). Atualizados por fonte secundária: Câmara de Rio Azul/PR (prova 22/11, mantém o registro), Câmara de Divisa Nova/MG, Birigui/SP, Lucélia/SP (prova 08/11), Câmara de Jarinu/SP (inclui Analista de Finanças e Orçamento; prova 22/11). 4 registros com situação ajustada às datas. Realeza/PR sem edital confirmado, não incluído. GitHub e painel com o mesmo arquivo (sha256 87b48fd9…)."
+  },
+  {
+   "data": "2026-10-30",
+   "tipo": "tarefa diária",
+   "inicio": "2026-10-30T09:56:01Z",
+   "fim": "2026-10-30T09:58:29Z",
+   "ufs_pesquisadas": [
+    "SC",
+    "PI",
+    "AP",
+    "MG",
+    "PE",
+    "AM"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 33,
+   "concursos_examinados": 80,
+   "editais_lidos": 0,
+   "registros_antes": 139,
+   "registros_depois": 140,
+   "novos": 1,
+   "alterados": 11,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 0,
+   "pendentes_de_verificacao": 125,
+   "fontes_inacessiveis": [
+    "www.vunesp.com.br: bloqueio do site (Akamai 403)",
+    "www.fundatec.org.br: bloqueio do site (desafio AWS WAF)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext disponível"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [
+    "Nenhum edital oficial novo localizado nas bancas acessíveis hoje; nenhuma confirmação oficial realizada."
+   ],
+   "nota": "Novo por fonte secundária: PREVIJUÍ/RS (Contador CR, Fundatec, inscrições até 19/11). Clementina, Descanso e Bela Vista do Piauí seriam excluídos por falta de data de prova; a busca encontrou as provas (22/11, 21/11 e 06/12) e eles foram mantidos com dados atualizados (Descanso: cargo é Controlador Interno). 8 registros com situação ajustada às datas. CGM Fortaleza (2024), Campo Grande do Piauí e Câmara de Laranjal (Contador não confirmado) não incluídos."
   }
  ]
 }
