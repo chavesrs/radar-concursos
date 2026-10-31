@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 9,
+ "proxima_posicao": 15,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -361,6 +361,53 @@
     "Nenhum edital oficial novo localizado nas bancas acessíveis hoje; nenhuma confirmação oficial realizada."
    ],
    "nota": "Novo por fonte secundária: PREVIJUÍ/RS (Contador CR, Fundatec, inscrições até 19/11). Clementina, Descanso e Bela Vista do Piauí seriam excluídos por falta de data de prova; a busca encontrou as provas (22/11, 21/11 e 06/12) e eles foram mantidos com dados atualizados (Descanso: cargo é Controlador Interno). 8 registros com situação ajustada às datas. CGM Fortaleza (2024), Campo Grande do Piauí e Câmara de Laranjal (Contador não confirmado) não incluídos. GitHub e painel com o mesmo arquivo (sha256 0d38141e…)."
+  },
+  {
+   "data": "2026-10-31",
+   "tipo": "tarefa diária",
+   "inicio": "2026-10-31T09:56:22Z",
+   "fim": "2026-10-31T09:59:40Z",
+   "ufs_pesquisadas": [
+    "GO",
+    "RN",
+    "RR",
+    "RJ",
+    "CE",
+    "MT"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 38,
+   "concursos_examinados": 85,
+   "editais_lidos": 2,
+   "registros_antes": 140,
+   "registros_depois": 141,
+   "novos": 2,
+   "alterados": 16,
+   "removidos": 1,
+   "confirmados_oficialmente_hoje": 1,
+   "pendentes_de_verificacao": 126,
+   "fontes_inacessiveis": [
+    "www.vunesp.com.br: bloqueio do site (Akamai 403)",
+    "www.fundatec.org.br: bloqueio do site (desafio AWS WAF)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Sefaz SP reconferida na página da FCC e no Edital nº 03/2026 de retificação (DOE 29/10: regras de atendimento especial e PcD; datas mantidas). Novos por fonte secundária: Prefeitura de Realeza/PR (Controlador Interno, FAFIPA, inscrições 03/11 a 03/12) e Prefeitura de Queimados/RJ (Contador, prova 20/11, datas divergentes). Sete registros que seriam excluídos foram mantidos com a data de prova encontrada (Siqueira Campos 29/11, Benedito Novo 15/11, Jucurutu, Acari, Cerro Corá, Santana do Seridó e São João do Sabugi em 06/12). Removido: Câmara de Acari/RN (inscrições encerradas em 27/10, sem data de prova localizada). Ibiúna: prova 29/11. 6 registros passaram a 'Inscrições encerradas'."
   }
  ]
 }
