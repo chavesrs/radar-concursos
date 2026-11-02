@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 21,
+ "proxima_posicao": 0,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -449,6 +449,53 @@
    "github_commit": "7cc4d9395255f03da28a604c9a7d80db9a7c5804",
    "falhas": [],
    "nota": "Novos por fonte secundária: CRECI-ES (PAS-Especialista Serviços Contábeis, Quadrix, inscrições até 10/11, prova 17/01/2027) e Câmara de Coronel Xavier Chaves/MG (Contador, IDEPI, inscrições 06/01 a 04/02/2027). Três registros que seriam excluídos foram mantidos com a data de prova encontrada (Câmara de Capinzal 22/11, CISAMAVI 15/11, Itarema 06/12). Suzano/SP não incluído (vaga de Contador não confirmada). CGU sem prorrogação (fim 04/11)."
+  },
+  {
+   "data": "2026-11-02",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-02T09:55:41Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "ES",
+    "AL",
+    "RO",
+    "DF",
+    "SE",
+    "TO"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 75,
+   "editais_lidos": 1,
+   "registros_antes": 143,
+   "registros_depois": 153,
+   "novos": 13,
+   "alterados": 6,
+   "removidos": 3,
+   "confirmados_oficialmente_hoje": 0,
+   "pendentes_de_verificacao": 138,
+   "fontes_inacessiveis": [
+    "www.vunesp.com.br: bloqueio do site (Akamai 403)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
+    "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Página oficial lida: FGV conhecimento.fgv.br/concursos/tcesc26 (TCE-SC já com provas objetiva e discursiva realizadas; registro 'Previsto' removido). 13 novos por fonte secundária (PCI Concursos): Suzano/SP, Pirapozinho/SP, Cunha/SP, Câmara de Altair/SP, Câmara de Laranjal/MG, Câmara de Jacutinga/MG, Câmara de Soledade/RS, Nova Pádua/RS, Câmara de São Francisco do Sul/SC, Câmara de Santa Terezinha do Progresso/SC, UFMS, Juquiá/SP e Câmara de Portel/PA. Chã Preta/AL: edital republicado, inscrições até 12/11 e prova 06/12. Datas de prova encontradas (registros mantidos): CREMERJ 13/12, Nova Prata do Iguaçu 15/11, Pedro Teixeira 29/11, Câmara de São Benedito 29/11, Câmara de Candeias do Jamari 22/11. Removidos por prova já realizada: Câmara de Ponta Porã/MS e São Joaquim da Barra/SP. Processos seletivos simplificados ignorados (Dores do Rio Preto/ES, Navegantes/SC, Santa Luzia d'Oeste/RO)."
   }
  ]
 }
