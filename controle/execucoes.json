@@ -454,7 +454,7 @@
    "data": "2026-11-02",
    "tipo": "tarefa diária",
    "inicio": "2026-11-02T09:55:41Z",
-   "fim": null,
+   "fim": "2026-11-02T10:00:29Z",
    "ufs_pesquisadas": [
     "ES",
     "AL",
@@ -490,10 +490,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
     "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/52daaf3b4f836c4fd4bbf15117bc5074",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "943c8bfcbe0d064bba6a06f926f8d75e3733770e",
    "falhas": [],
    "nota": "Página oficial lida: FGV conhecimento.fgv.br/concursos/tcesc26 (TCE-SC já com provas objetiva e discursiva realizadas; registro 'Previsto' removido). 13 novos por fonte secundária (PCI Concursos): Suzano/SP, Pirapozinho/SP, Cunha/SP, Câmara de Altair/SP, Câmara de Laranjal/MG, Câmara de Jacutinga/MG, Câmara de Soledade/RS, Nova Pádua/RS, Câmara de São Francisco do Sul/SC, Câmara de Santa Terezinha do Progresso/SC, UFMS, Juquiá/SP e Câmara de Portel/PA. Chã Preta/AL: edital republicado, inscrições até 12/11 e prova 06/12. Datas de prova encontradas (registros mantidos): CREMERJ 13/12, Nova Prata do Iguaçu 15/11, Pedro Teixeira 29/11, Câmara de São Benedito 29/11, Câmara de Candeias do Jamari 22/11. Removidos por prova já realizada: Câmara de Ponta Porã/MS e São Joaquim da Barra/SP. Processos seletivos simplificados ignorados (Dores do Rio Preto/ES, Navegantes/SC, Santa Luzia d'Oeste/RO)."
   }
