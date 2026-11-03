@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 0,
+ "proxima_posicao": 6,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -496,6 +496,54 @@
    "github_commit": "943c8bfcbe0d064bba6a06f926f8d75e3733770e",
    "falhas": [],
    "nota": "Página oficial lida: FGV conhecimento.fgv.br/concursos/tcesc26 (TCE-SC já com provas objetiva e discursiva realizadas; registro 'Previsto' removido). 13 novos por fonte secundária (PCI Concursos): Suzano/SP, Pirapozinho/SP, Cunha/SP, Câmara de Altair/SP, Câmara de Laranjal/MG, Câmara de Jacutinga/MG, Câmara de Soledade/RS, Nova Pádua/RS, Câmara de São Francisco do Sul/SC, Câmara de Santa Terezinha do Progresso/SC, UFMS, Juquiá/SP e Câmara de Portel/PA. Chã Preta/AL: edital republicado, inscrições até 12/11 e prova 06/12. Datas de prova encontradas (registros mantidos): CREMERJ 13/12, Nova Prata do Iguaçu 15/11, Pedro Teixeira 29/11, Câmara de São Benedito 29/11, Câmara de Candeias do Jamari 22/11. Removidos por prova já realizada: Câmara de Ponta Porã/MS e São Joaquim da Barra/SP. Processos seletivos simplificados ignorados (Dores do Rio Preto/ES, Navegantes/SC, Santa Luzia d'Oeste/RO)."
+  },
+  {
+   "data": "2026-11-03",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-03T09:55:36Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "SP",
+    "BA",
+    "PA",
+    "SC",
+    "PI",
+    "AP"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 80,
+   "editais_lidos": 2,
+   "registros_antes": 153,
+   "registros_depois": 157,
+   "novos": 4,
+   "alterados": 8,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 1,
+   "pendentes_de_verificacao": 141,
+   "fontes_inacessiveis": [
+    "www.vunesp.com.br: bloqueio do site (Akamai 403)",
+    "www2.fundatec.org.br: bloqueio do site (desafio AWS WAF, resposta 202 vazia)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
+    "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Leitura oficial: página da FCC (concursosfcc.com.br/concursos/sefsc126/) e Edital nº 01/2026 da SEF/SC (PDF) — novo registro Auditor Estadual de Finanças Públicas – Ciências Contábeis (20 vagas, R$ 25.337,61, prova 22/11, conteúdo programático conferido). Novos por fonte secundária (PCI): IPAM Porto Velho/RO, Prefeitura e Câmara de Faina/GO (reabertura) e TRF3 Técnico Judiciário – Contabilidade. Datas de prova preenchidas (fonte secundária): Barão de Cotegipe 22/11 e Serra Alta 15/11 (mantidos, evitando exclusão), Paulo de Faria 22/11, SAAE Pirapora 20/12, Realeza 17/01/2027. Situação ajustada pelas datas: Paraíso das Águas encerrada; Câmara de Três Pontas e Realeza abertas. CGU: sem prorrogação encontrada (fim 04/11)."
   }
  ]
 }
