@@ -501,7 +501,7 @@
    "data": "2026-11-03",
    "tipo": "tarefa diária",
    "inicio": "2026-11-03T09:55:36Z",
-   "fim": null,
+   "fim": "2026-11-03T09:59:37Z",
    "ufs_pesquisadas": [
     "SP",
     "BA",
@@ -538,10 +538,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
     "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/0059b39695e50054265d32ab980eac41",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "cfb221af247d768e6ee2f0037ef1ba14f1c4e8bb",
    "falhas": [],
    "nota": "Leitura oficial: página da FCC (concursosfcc.com.br/concursos/sefsc126/) e Edital nº 01/2026 da SEF/SC (PDF) — novo registro Auditor Estadual de Finanças Públicas – Ciências Contábeis (20 vagas, R$ 25.337,61, prova 22/11, conteúdo programático conferido). Novos por fonte secundária (PCI): IPAM Porto Velho/RO, Prefeitura e Câmara de Faina/GO (reabertura) e TRF3 Técnico Judiciário – Contabilidade. Datas de prova preenchidas (fonte secundária): Barão de Cotegipe 22/11 e Serra Alta 15/11 (mantidos, evitando exclusão), Paulo de Faria 22/11, SAAE Pirapora 20/12, Realeza 17/01/2027. Situação ajustada pelas datas: Paraíso das Águas encerrada; Câmara de Três Pontas e Realeza abertas. CGU: sem prorrogação encontrada (fim 04/11)."
   }
