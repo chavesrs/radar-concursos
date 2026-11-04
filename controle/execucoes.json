@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 6,
+ "proxima_posicao": 12,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -544,6 +544,54 @@
    "github_commit": "cfb221af247d768e6ee2f0037ef1ba14f1c4e8bb",
    "falhas": [],
    "nota": "Leitura oficial: página da FCC (concursosfcc.com.br/concursos/sefsc126/) e Edital nº 01/2026 da SEF/SC (PDF) — novo registro Auditor Estadual de Finanças Públicas – Ciências Contábeis (20 vagas, R$ 25.337,61, prova 22/11, conteúdo programático conferido). Novos por fonte secundária (PCI): IPAM Porto Velho/RO, Prefeitura e Câmara de Faina/GO (reabertura) e TRF3 Técnico Judiciário – Contabilidade. Datas de prova preenchidas (fonte secundária): Barão de Cotegipe 22/11 e Serra Alta 15/11 (mantidos, evitando exclusão), Paulo de Faria 22/11, SAAE Pirapora 20/12, Realeza 17/01/2027. Situação ajustada pelas datas: Paraíso das Águas encerrada; Câmara de Três Pontas e Realeza abertas. CGU: sem prorrogação encontrada (fim 04/11)."
+  },
+  {
+   "data": "2026-11-04",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-04T09:56:14Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "MG",
+    "PE",
+    "AM",
+    "GO",
+    "RN",
+    "RR"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 70,
+   "editais_lidos": 2,
+   "registros_antes": 157,
+   "registros_depois": 159,
+   "novos": 2,
+   "alterados": 13,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 1,
+   "pendentes_de_verificacao": 142,
+   "fontes_inacessiveis": [
+    "www.vunesp.com.br: bloqueio do site (Akamai 403)",
+    "quadrix.org.br: bloqueio do site (403)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
+    "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Leitura oficial: Edital nº 1 – SEFAZ/AL (PDF no CDN do Cebraspe) — novo registro AFTE (40 vagas imediatas, R$ 25.270,68, inscrições 17/09–21/10, provas objetivas 20/12; conteúdo conferido) e página da FCC da ABGF (concursosfcc.com.br/concursos/abgfg126/), que já está com provas realizadas e não foi incluída. Novo previsto: Câmara de Boa Vista/RR (Contador, comissão formada). Datas de prova preenchidas por fonte secundária (evitam exclusão futura): Câmara de Dores do Indaiá 22/11, Lagoa da Prata 29/11, Câmara de Quatro Barras 31/01/2027, Corupá 22/11. Situação ajustada pelas datas (encerradas em 03/11: Sefaz-SP, Belo Vale, Queimados e os quatro acima; abertas em 04/11: UFMS e TRF3). CGU encerra hoje às 18h; sem prorrogação encontrada."
   }
  ]
 }
