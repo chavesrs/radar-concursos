@@ -549,7 +549,7 @@
    "data": "2026-11-04",
    "tipo": "tarefa diária",
    "inicio": "2026-11-04T09:56:14Z",
-   "fim": null,
+   "fim": "2026-11-04T10:00:43Z",
    "ufs_pesquisadas": [
     "MG",
     "PE",
@@ -586,10 +586,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
     "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/961ad7b2b6f741f74c4f2df1bd37c7b6",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "3840ab1cded8acc1c546ba3f2308c2fe0d7af1f7",
    "falhas": [],
    "nota": "Leitura oficial: Edital nº 1 – SEFAZ/AL (PDF no CDN do Cebraspe) — novo registro AFTE (40 vagas imediatas, R$ 25.270,68, inscrições 17/09–21/10, provas objetivas 20/12; conteúdo conferido) e página da FCC da ABGF (concursosfcc.com.br/concursos/abgfg126/), que já está com provas realizadas e não foi incluída. Novo previsto: Câmara de Boa Vista/RR (Contador, comissão formada). Datas de prova preenchidas por fonte secundária (evitam exclusão futura): Câmara de Dores do Indaiá 22/11, Lagoa da Prata 29/11, Câmara de Quatro Barras 31/01/2027, Corupá 22/11. Situação ajustada pelas datas (encerradas em 03/11: Sefaz-SP, Belo Vale, Queimados e os quatro acima; abertas em 04/11: UFMS e TRF3). CGU encerra hoje às 18h; sem prorrogação encontrada."
   }
