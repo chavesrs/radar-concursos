@@ -597,7 +597,7 @@
    "data": "2026-11-05",
    "tipo": "tarefa diária",
    "inicio": "2026-11-05T09:56:08Z",
-   "fim": null,
+   "fim": "2026-11-05T09:59:31Z",
    "ufs_pesquisadas": [
     "RJ",
     "CE",
@@ -633,10 +633,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
     "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/9cda2b9d98af6411c10446c05b3d68cb",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "ded6107092a63f481abb7d7a82291dcb72143d74",
    "falhas": [],
    "nota": "Leituras oficiais: página da FCC da Sefaz-SP APOFP (inscrições prorrogadas até 05/11, prova 20/12 — registro atualizado e reconferido), página da FCC da MANAUSPREV e Edital nº 01/2026 (novo registro: Analista Previdenciário – Contabilidade 1+CR e Auditoria 3+CR, R$ 9.175,25, prova 06/12, conteúdo conferido). Novos por fonte secundária: Câmara de Comodoro/MT (Contador; Controlador Interno, prova 22/11) e Câmara de São João do Piauí/PI (Controlador Interno, inscrições 03–30/11, prova 13/12). Datas de prova preenchidas por fonte secundária: Porto Feliz 13/12, Holambra 29/11, Embaúba 13/12, Maratá 29/11, Câmara de Bagé 06/12, Vicente Dutra 22/11, Colinas 13/12, Câmara de Fraiburgo 29/11, Aral Moreira 29/11, Câmara de Tibau do Sul 06/12. Taquaritinga sem data de prova encontrada. CGU e Aral Moreira passaram a encerradas."
   }
