@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 12,
+ "proxima_posicao": 18,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -592,6 +592,53 @@
    "github_commit": "3840ab1cded8acc1c546ba3f2308c2fe0d7af1f7",
    "falhas": [],
    "nota": "Leitura oficial: Edital nº 1 – SEFAZ/AL (PDF no CDN do Cebraspe) — novo registro AFTE (40 vagas imediatas, R$ 25.270,68, inscrições 17/09–21/10, provas objetivas 20/12; conteúdo conferido) e página da FCC da ABGF (concursosfcc.com.br/concursos/abgfg126/), que já está com provas realizadas e não foi incluída. Novo previsto: Câmara de Boa Vista/RR (Contador, comissão formada). Datas de prova preenchidas por fonte secundária (evitam exclusão futura): Câmara de Dores do Indaiá 22/11, Lagoa da Prata 29/11, Câmara de Quatro Barras 31/01/2027, Corupá 22/11. Situação ajustada pelas datas (encerradas em 03/11: Sefaz-SP, Belo Vale, Queimados e os quatro acima; abertas em 04/11: UFMS e TRF3). CGU encerra hoje às 18h; sem prorrogação encontrada."
+  },
+  {
+   "data": "2026-11-05",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-05T09:56:08Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "RJ",
+    "CE",
+    "MT",
+    "RS",
+    "PB",
+    "AC"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 75,
+   "editais_lidos": 3,
+   "registros_antes": 159,
+   "registros_depois": 162,
+   "novos": 3,
+   "alterados": 13,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 2,
+   "pendentes_de_verificacao": 144,
+   "fontes_inacessiveis": [
+    "www.vunesp.com.br: bloqueio do site (Akamai 403)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
+    "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Leituras oficiais: página da FCC da Sefaz-SP APOFP (inscrições prorrogadas até 05/11, prova 20/12 — registro atualizado e reconferido), página da FCC da MANAUSPREV e Edital nº 01/2026 (novo registro: Analista Previdenciário – Contabilidade 1+CR e Auditoria 3+CR, R$ 9.175,25, prova 06/12, conteúdo conferido). Novos por fonte secundária: Câmara de Comodoro/MT (Contador; Controlador Interno, prova 22/11) e Câmara de São João do Piauí/PI (Controlador Interno, inscrições 03–30/11, prova 13/12). Datas de prova preenchidas por fonte secundária: Porto Feliz 13/12, Holambra 29/11, Embaúba 13/12, Maratá 29/11, Câmara de Bagé 06/12, Vicente Dutra 22/11, Colinas 13/12, Câmara de Fraiburgo 29/11, Aral Moreira 29/11, Câmara de Tibau do Sul 06/12. Taquaritinga sem data de prova encontrada. CGU e Aral Moreira passaram a encerradas."
   }
  ]
 }
