@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 18,
+ "proxima_posicao": 24,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -639,6 +639,53 @@
    "github_commit": "ded6107092a63f481abb7d7a82291dcb72143d74",
    "falhas": [],
    "nota": "Leituras oficiais: página da FCC da Sefaz-SP APOFP (inscrições prorrogadas até 05/11, prova 20/12 — registro atualizado e reconferido), página da FCC da MANAUSPREV e Edital nº 01/2026 (novo registro: Analista Previdenciário – Contabilidade 1+CR e Auditoria 3+CR, R$ 9.175,25, prova 06/12, conteúdo conferido). Novos por fonte secundária: Câmara de Comodoro/MT (Contador; Controlador Interno, prova 22/11) e Câmara de São João do Piauí/PI (Controlador Interno, inscrições 03–30/11, prova 13/12). Datas de prova preenchidas por fonte secundária: Porto Feliz 13/12, Holambra 29/11, Embaúba 13/12, Maratá 29/11, Câmara de Bagé 06/12, Vicente Dutra 22/11, Colinas 13/12, Câmara de Fraiburgo 29/11, Aral Moreira 29/11, Câmara de Tibau do Sul 06/12. Taquaritinga sem data de prova encontrada. CGU e Aral Moreira passaram a encerradas."
+  },
+  {
+   "data": "2026-11-06",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-06T09:55:59Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "PR",
+    "MA",
+    "MS",
+    "ES",
+    "AL",
+    "RO"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 80,
+   "editais_lidos": 1,
+   "registros_antes": 162,
+   "registros_depois": 168,
+   "novos": 6,
+   "alterados": 18,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 0,
+   "pendentes_de_verificacao": 150,
+   "fontes_inacessiveis": [
+    "www.vunesp.com.br: bloqueio do site (Akamai 403)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
+    "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Página oficial lida: FCC Câmara de Presidente Prudente (cmprp126) — concurso já homologado, não incluído. Novos por fonte secundária (PCI): Câmara de Piúma/ES (Auditor de Controle Interno), Guaratinguetá/SP (Contador), Câmara de Sete Barras/SP (Contador; Controlador Interno), Agronômica/SC (Contador; Agente de Controle Interno), Luzerna/SC (Contador; Controlador Interno) e Floresta/PE (Técnico em Contabilidade; Técnico em Controle Interno, reabertura até 12/11). Datas de prova preenchidas por fonte secundária: PRUDENPREV 17/01/2027, Macedônia 22/11, Câmara de Capinópolis 29/11, Santana de Pirapama 29/11, SAAE de Iconha 13/12, Nova Boa Vista 06/12. Taquaritinga continua sem data de prova (exclusão a partir de 09/11 se não for encontrada). 12 registros tiveram a situação ajustada pelas datas (encerrados em 05/11; Câmara de São Francisco do Sul aberta)."
   }
  ]
 }
