@@ -644,7 +644,7 @@
    "data": "2026-11-06",
    "tipo": "tarefa diária",
    "inicio": "2026-11-06T09:55:59Z",
-   "fim": null,
+   "fim": "2026-11-06T09:58:55Z",
    "ufs_pesquisadas": [
     "PR",
     "MA",
@@ -680,10 +680,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
     "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/cdc3c1df4a753c6bfb882970950ee80d",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "7baf65f74528cacccb6f904c62f466903df2269e",
    "falhas": [],
    "nota": "Página oficial lida: FCC Câmara de Presidente Prudente (cmprp126) — concurso já homologado, não incluído. Novos por fonte secundária (PCI): Câmara de Piúma/ES (Auditor de Controle Interno), Guaratinguetá/SP (Contador), Câmara de Sete Barras/SP (Contador; Controlador Interno), Agronômica/SC (Contador; Agente de Controle Interno), Luzerna/SC (Contador; Controlador Interno) e Floresta/PE (Técnico em Contabilidade; Técnico em Controle Interno, reabertura até 12/11). Datas de prova preenchidas por fonte secundária: PRUDENPREV 17/01/2027, Macedônia 22/11, Câmara de Capinópolis 29/11, Santana de Pirapama 29/11, SAAE de Iconha 13/12, Nova Boa Vista 06/12. Taquaritinga continua sem data de prova (exclusão a partir de 09/11 se não for encontrada). 12 registros tiveram a situação ajustada pelas datas (encerrados em 05/11; Câmara de São Francisco do Sul aberta)."
   }
