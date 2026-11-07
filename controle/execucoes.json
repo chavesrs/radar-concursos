@@ -691,7 +691,7 @@
    "data": "2026-11-07",
    "tipo": "tarefa diária",
    "inicio": "2026-11-07T09:55:58Z",
-   "fim": null,
+   "fim": "2026-11-07T09:58:48Z",
    "ufs_pesquisadas": [
     "DF",
     "SE",
@@ -727,10 +727,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
     "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/ceab9c159cae08f63961ee95d46d679e",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "2659df0704b50f2a5dc0e060759b6d6120d6cb3e",
    "falhas": [],
    "nota": "Nenhum edital oficial lido hoje. Novos por fonte secundária (PCI): Anchieta/ES (Contador; Auditor de Controle Interno), Jandira/SP (Contador; Analista de Controle Interno), Câmara de Aracruz/ES (Contador), Ibirama/SC (Contador) e Água Boa/MG (Técnico Administrativo: Contabilidade). Datas de prova preenchidas por fonte secundária: São João del-Rei/DAMAE 13/12, Imbituba 22/11, Câmara de Dom Inocêncio 13/12. Sem prorrogação encontrada para INB, Montenegro, CRECI-ES, Juquiá, SAAE de Iconha e Florestópolis. Taquaritinga ainda sem data de prova (exclusão a partir de 09/11). Tupaciguara sem data de prova confiável (só fonte comercial)."
   }
