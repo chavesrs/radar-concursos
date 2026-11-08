@@ -738,7 +738,7 @@
    "data": "2026-11-08",
    "tipo": "tarefa diária",
    "inicio": "2026-11-08T09:56:18Z",
-   "fim": null,
+   "fim": "2026-11-08T09:58:40Z",
    "ufs_pesquisadas": [
     "SC",
     "PI",
@@ -774,10 +774,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
     "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/a4453de824ded040a294b4ac9efc37b6",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "e8e4c20e6937f420c863ae7629812daa448a2775",
    "falhas": [],
    "nota": "Nenhum edital oficial lido e nenhum concurso novo encontrado (PCI sem itens novos; buscas nas bancas, UFs do dia e bancas municipais: Objetiva, IBAM, Legalle, IBGP, FAFIPA, Consulpam, IDIB, La Salle, FUNDEP, Instituto DOM). Datas de prova preenchidas por fonte secundária: Ilhota 06/12 (provável) e Câmara de Caratinga 31/01/2027. Removido: Prefeitura de Três Forquilhas/RS (prova em 07/11 já realizada). Taquaritinga continua sem data de prova; será excluída amanhã pela regra dos 3 dias se não for encontrada."
   }
