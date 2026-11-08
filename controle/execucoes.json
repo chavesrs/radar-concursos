@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 3,
+ "proxima_posicao": 9,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -733,6 +733,53 @@
    "github_commit": "2659df0704b50f2a5dc0e060759b6d6120d6cb3e",
    "falhas": [],
    "nota": "Nenhum edital oficial lido hoje. Novos por fonte secundária (PCI): Anchieta/ES (Contador; Auditor de Controle Interno), Jandira/SP (Contador; Analista de Controle Interno), Câmara de Aracruz/ES (Contador), Ibirama/SC (Contador) e Água Boa/MG (Técnico Administrativo: Contabilidade). Datas de prova preenchidas por fonte secundária: São João del-Rei/DAMAE 13/12, Imbituba 22/11, Câmara de Dom Inocêncio 13/12. Sem prorrogação encontrada para INB, Montenegro, CRECI-ES, Juquiá, SAAE de Iconha e Florestópolis. Taquaritinga ainda sem data de prova (exclusão a partir de 09/11). Tupaciguara sem data de prova confiável (só fonte comercial)."
+  },
+  {
+   "data": "2026-11-08",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-08T09:56:18Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "SC",
+    "PI",
+    "AP",
+    "MG",
+    "PE",
+    "AM"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 60,
+   "editais_lidos": 0,
+   "registros_antes": 173,
+   "registros_depois": 172,
+   "novos": 0,
+   "alterados": 2,
+   "removidos": 1,
+   "confirmados_oficialmente_hoje": 0,
+   "pendentes_de_verificacao": 154,
+   "fontes_inacessiveis": [
+    "www.vunesp.com.br: bloqueio do site (Akamai 403)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
+    "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Nenhum edital oficial lido e nenhum concurso novo encontrado (PCI sem itens novos; buscas nas bancas, UFs do dia e bancas municipais: Objetiva, IBAM, Legalle, IBGP, FAFIPA, Consulpam, IDIB, La Salle, FUNDEP, Instituto DOM). Datas de prova preenchidas por fonte secundária: Ilhota 06/12 (provável) e Câmara de Caratinga 31/01/2027. Removido: Prefeitura de Três Forquilhas/RS (prova em 07/11 já realizada). Taquaritinga continua sem data de prova; será excluída amanhã pela regra dos 3 dias se não for encontrada."
   }
  ]
 }
