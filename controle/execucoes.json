@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 9,
+ "proxima_posicao": 15,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -780,6 +780,53 @@
    "github_commit": "e8e4c20e6937f420c863ae7629812daa448a2775",
    "falhas": [],
    "nota": "Nenhum edital oficial lido e nenhum concurso novo encontrado (PCI sem itens novos; buscas nas bancas, UFs do dia e bancas municipais: Objetiva, IBAM, Legalle, IBGP, FAFIPA, Consulpam, IDIB, La Salle, FUNDEP, Instituto DOM). Datas de prova preenchidas por fonte secundária: Ilhota 06/12 (provável) e Câmara de Caratinga 31/01/2027. Removido: Prefeitura de Três Forquilhas/RS (prova em 07/11 já realizada). Taquaritinga continua sem data de prova; será excluída amanhã pela regra dos 3 dias se não for encontrada."
+  },
+  {
+   "data": "2026-11-09",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-09T09:55:50Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "GO",
+    "RN",
+    "RR",
+    "RJ",
+    "CE",
+    "MT"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 60,
+   "editais_lidos": 0,
+   "registros_antes": 172,
+   "registros_depois": 168,
+   "novos": 0,
+   "alterados": 7,
+   "removidos": 4,
+   "confirmados_oficialmente_hoje": 0,
+   "pendentes_de_verificacao": 150,
+   "fontes_inacessiveis": [
+    "www.vunesp.com.br: bloqueio do site (Akamai 403)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
+    "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Nenhum edital oficial lido e nenhum concurso novo (PCI sem itens novos; buscas nas bancas maiores, UFs do dia e bancas municipais Avança SP, Instituto Access, GAMA, IASPE, Legatus, AMAUC/Unoesc/AMEOSC). Datas de prova preenchidas por fonte secundária: Iporã do Oeste 29/11, Rio Negrinho e órgãos 06/12, Câmara de Joca Marques 13/12. Removidos: Taquaritinga/SP (inscrições encerradas em 05/11 e data da prova não encontrada após nova busca), Lucélia/SP, Câmara de Capão do Leão/RS e Câmara de Rinópolis/SP (provas em 08/11 já realizadas). Situação ajustada pelas datas: Macedônia encerrada; Uirapuru, Pirapozinho e Câmara de Soledade abertas. Sem prorrogação encontrada para TJPB (fim 18/11)."
   }
  ]
 }
