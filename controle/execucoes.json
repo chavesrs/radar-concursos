@@ -785,7 +785,7 @@
    "data": "2026-11-09",
    "tipo": "tarefa diária",
    "inicio": "2026-11-09T09:55:50Z",
-   "fim": null,
+   "fim": "2026-11-09T09:58:41Z",
    "ufs_pesquisadas": [
     "GO",
     "RN",
@@ -821,10 +821,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl + pdftotext",
     "ferramentas mcp__claude-artifacts indisponíveis nesta execução; painel atualizado pelas ferramentas antigas (ArtifactData/Artifact)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/f9d94b3990ba40c9c6a6a852b5507c40",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "e3e0fc9cbab3279da4a1552a34fa45235c182428",
    "falhas": [],
    "nota": "Nenhum edital oficial lido e nenhum concurso novo (PCI sem itens novos; buscas nas bancas maiores, UFs do dia e bancas municipais Avança SP, Instituto Access, GAMA, IASPE, Legatus, AMAUC/Unoesc/AMEOSC). Datas de prova preenchidas por fonte secundária: Iporã do Oeste 29/11, Rio Negrinho e órgãos 06/12, Câmara de Joca Marques 13/12. Removidos: Taquaritinga/SP (inscrições encerradas em 05/11 e data da prova não encontrada após nova busca), Lucélia/SP, Câmara de Capão do Leão/RS e Câmara de Rinópolis/SP (provas em 08/11 já realizadas). Situação ajustada pelas datas: Macedônia encerrada; Uirapuru, Pirapozinho e Câmara de Soledade abertas. Sem prorrogação encontrada para TJPB (fim 18/11)."
   }
