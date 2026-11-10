@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 15,
+ "proxima_posicao": 21,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -827,6 +827,53 @@
    "github_commit": "e3e0fc9cbab3279da4a1552a34fa45235c182428",
    "falhas": [],
    "nota": "Nenhum edital oficial lido e nenhum concurso novo (PCI sem itens novos; buscas nas bancas maiores, UFs do dia e bancas municipais Avança SP, Instituto Access, GAMA, IASPE, Legatus, AMAUC/Unoesc/AMEOSC). Datas de prova preenchidas por fonte secundária: Iporã do Oeste 29/11, Rio Negrinho e órgãos 06/12, Câmara de Joca Marques 13/12. Removidos: Taquaritinga/SP (inscrições encerradas em 05/11 e data da prova não encontrada após nova busca), Lucélia/SP, Câmara de Capão do Leão/RS e Câmara de Rinópolis/SP (provas em 08/11 já realizadas). Situação ajustada pelas datas: Macedônia encerrada; Uirapuru, Pirapozinho e Câmara de Soledade abertas. Sem prorrogação encontrada para TJPB (fim 18/11)."
+  },
+  {
+   "data": "2026-11-10",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-10T09:56:16Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "RS",
+    "PB",
+    "AC",
+    "PR",
+    "MA",
+    "MS"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 31,
+   "concursos_examinados": 65,
+   "editais_lidos": 2,
+   "registros_antes": 168,
+   "registros_depois": 173,
+   "novos": 5,
+   "alterados": 2,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 2,
+   "pendentes_de_verificacao": 154,
+   "fontes_inacessiveis": [
+    "vunesp.com.br: bloqueio do site (HTTP 403)",
+    "WebFetch: limitação da ferramenta (DNS ENOTFOUND); leitura feita com curl",
+    "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Novos: DPE-PB Auditor Interno (edital oficial FCC lido), Iperó, Piratini, Patrocínio Paulista, CIS Itu. Alterados: Embaúba (prorrogação até 12/11), TJPB reconferido no edital retificado de 29/10. Nenhuma remoção."
   }
  ]
 }
