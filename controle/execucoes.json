@@ -832,7 +832,7 @@
    "data": "2026-11-10",
    "tipo": "tarefa diária",
    "inicio": "2026-11-10T09:56:16Z",
-   "fim": null,
+   "fim": "2026-11-10T10:01:33Z",
    "ufs_pesquisadas": [
     "RS",
     "PB",
@@ -868,10 +868,10 @@
     "WebFetch: limitação da ferramenta (DNS ENOTFOUND); leitura feita com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/f7071867bd57f9ee6295518ef757a6dd",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "ddddddcef981e2003636286f97f621f2e5351eeb",
    "falhas": [],
    "nota": "Novos: DPE-PB Auditor Interno (edital oficial FCC lido), Iperó, Piratini, Patrocínio Paulista, CIS Itu. Alterados: Embaúba (prorrogação até 12/11), TJPB reconferido no edital retificado de 29/10. Nenhuma remoção."
   }
