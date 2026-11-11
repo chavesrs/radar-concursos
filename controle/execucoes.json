@@ -879,7 +879,7 @@
    "data": "2026-11-11",
    "tipo": "tarefa diária",
    "inicio": "2026-11-11T09:57:36Z",
-   "fim": null,
+   "fim": "2026-11-11T10:01:07Z",
    "ufs_pesquisadas": [
     "ES",
     "AL",
@@ -916,10 +916,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/71ad4687c1f497163964f8b43a763215",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "d62f61587c297e4447c55f008a58d5a1a2b814ad",
    "falhas": [],
    "nota": "Novos (fonte secundária): Prefeitura de Murutinga do Sul/SP (Controlador Interno, até 16/11) e CGE-TO (Analista de Controle Interno, previsto). Câmara de Portel: retificação adiou inscrições para 10–29/11 e prova para 20/12. Montenegro: fim corrigido para 12/11 (coerente com a observação). 9 registros passaram a encerrados (fim 10/11). Nenhum edital oficial lido; nenhuma remoção."
   }
