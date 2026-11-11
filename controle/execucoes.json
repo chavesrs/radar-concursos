@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 21,
+ "proxima_posicao": 0,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -874,6 +874,54 @@
    "github_commit": "ddddddcef981e2003636286f97f621f2e5351eeb",
    "falhas": [],
    "nota": "Novos: DPE-PB Auditor Interno (edital oficial FCC lido), Iperó, Piratini, Patrocínio Paulista, CIS Itu. Alterados: Embaúba (prorrogação até 12/11), TJPB reconferido no edital retificado de 29/10. Nenhuma remoção."
+  },
+  {
+   "data": "2026-11-11",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-11T09:57:36Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "ES",
+    "AL",
+    "RO",
+    "DF",
+    "SE",
+    "TO"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 31,
+   "concursos_examinados": 60,
+   "editais_lidos": 0,
+   "registros_antes": 173,
+   "registros_depois": 175,
+   "novos": 2,
+   "alterados": 11,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 0,
+   "pendentes_de_verificacao": 156,
+   "fontes_inacessiveis": [
+    "vunesp.com.br: bloqueio do site (HTTP 403)",
+    "www2.fundatec.org.br: proteção do site (AWS WAF, resposta 202 vazia)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl",
+    "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Novos (fonte secundária): Prefeitura de Murutinga do Sul/SP (Controlador Interno, até 16/11) e CGE-TO (Analista de Controle Interno, previsto). Câmara de Portel: retificação adiou inscrições para 10–29/11 e prova para 20/12. Montenegro: fim corrigido para 12/11 (coerente com a observação). 9 registros passaram a encerrados (fim 10/11). Nenhum edital oficial lido; nenhuma remoção."
   }
  ]
 }
