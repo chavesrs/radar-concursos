@@ -927,7 +927,7 @@
    "data": "2026-11-12",
    "tipo": "tarefa diária",
    "inicio": "2026-11-12T09:55:45Z",
-   "fim": null,
+   "fim": "2026-11-12T09:58:56Z",
    "ufs_pesquisadas": [
     "SP",
     "BA",
@@ -963,10 +963,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/12d9e7b6fd6da007868ebb0e12c3e595",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "94e4726299177b4bdea0871df98a1f986ecf5818",
    "falhas": [],
    "nota": "Novos (fonte secundária): Câmara de Aral Moreira/MS (Controlador Interno, até 22/11), Guabiju/RS (Contador ou Técnico em Contabilidade, até 30/11), Câmara de Campo Limpo de Goiás/GO (Controlador Interno, em breve 21/12), São Sebastião PREV/SP (Contador, prova 22/11), CRC-PE (previsto) e Concurso Unificado dos Municípios do PI (previsto). SAAE de Iconha: prorrogação até 16/11. INB, Imbituba e Câmara de Altair passaram a encerrados. Nenhum edital oficial lido; nenhuma remoção."
   }
