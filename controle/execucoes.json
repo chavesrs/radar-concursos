@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 6,
+ "proxima_posicao": 12,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -969,6 +969,53 @@
    "github_commit": "94e4726299177b4bdea0871df98a1f986ecf5818",
    "falhas": [],
    "nota": "Novos (fonte secundária): Câmara de Aral Moreira/MS (Controlador Interno, até 22/11), Guabiju/RS (Contador ou Técnico em Contabilidade, até 30/11), Câmara de Campo Limpo de Goiás/GO (Controlador Interno, em breve 21/12), São Sebastião PREV/SP (Contador, prova 22/11), CRC-PE (previsto) e Concurso Unificado dos Municípios do PI (previsto). SAAE de Iconha: prorrogação até 16/11. INB, Imbituba e Câmara de Altair passaram a encerrados. Nenhum edital oficial lido; nenhuma remoção."
+  },
+  {
+   "data": "2026-11-13",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-13T10:02:14Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "MG",
+    "PE",
+    "AM",
+    "GO",
+    "RN",
+    "RR"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 60,
+   "editais_lidos": 2,
+   "registros_antes": 181,
+   "registros_depois": 183,
+   "novos": 2,
+   "alterados": 7,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 1,
+   "pendentes_de_verificacao": 163,
+   "fontes_inacessiveis": [
+    "vunesp.com.br: bloqueio do site (HTTP 403)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl",
+    "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Novo confirmado por edital oficial (FGV): CRP/05-RJ Contador (1 vaga, R$ 7.313,35, inscrições 16/11–17/12, prova 28/02/2027). Novo previsto: CGE-RR. Página da FCC da Manausprev lida (sem nova prorrogação). 7 registros passaram a encerrados (fim 12/11). Nenhuma remoção."
   }
  ]
 }
