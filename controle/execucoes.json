@@ -974,7 +974,7 @@
    "data": "2026-11-13",
    "tipo": "tarefa diária",
    "inicio": "2026-11-13T10:02:14Z",
-   "fim": null,
+   "fim": "2026-11-13T10:06:00Z",
    "ufs_pesquisadas": [
     "MG",
     "PE",
@@ -1010,10 +1010,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/c9c5d82ea80f31e25ed8e5225b77948b",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "f0b472af9b3963ea5f2c43c68510ef27a70a0f36",
    "falhas": [],
    "nota": "Novo confirmado por edital oficial (FGV): CRP/05-RJ Contador (1 vaga, R$ 7.313,35, inscrições 16/11–17/12, prova 28/02/2027). Novo previsto: CGE-RR. Página da FCC da Manausprev lida (sem nova prorrogação). 7 registros passaram a encerrados (fim 12/11). Nenhuma remoção."
   }
