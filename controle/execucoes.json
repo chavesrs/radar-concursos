@@ -1021,7 +1021,7 @@
    "data": "2026-11-14",
    "tipo": "tarefa diária",
    "inicio": "2026-11-14T09:56:13Z",
-   "fim": null,
+   "fim": "2026-11-14T09:59:48Z",
    "ufs_pesquisadas": [
     "RJ",
     "CE",
@@ -1057,10 +1057,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/3928f272dbeef6b0161e0ef82d2a3057",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "b2a3b572aa2ab4e915f9ae2684dac1003f9a5864",
    "falhas": [],
    "nota": "Novos (fonte secundária): Câmara de Águas Frias/SC (Contador; Controle Interno), Prefeitura de Italva/RJ (Auditor de Controle Interno), Prefeitura de Muqui/ES (Contador; Auditor de Controle Interno), Câmara de Pau dos Ferros/RN (Controlador Interno, prova 22/11). Alterados: FJPO prorrogada até 19/11; Câmara de Cuiabá prova adiada para 20/12; Comodoro banca UFMT; Dom Inocêncio e DPE-PB encerradas. Nenhum edital oficial lido; nenhuma remoção."
   }
