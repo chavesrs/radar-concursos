@@ -1068,7 +1068,7 @@
    "data": "2026-11-15",
    "tipo": "tarefa diária",
    "inicio": "2026-11-15T09:55:34Z",
-   "fim": null,
+   "fim": "2026-11-15T09:59:14Z",
    "ufs_pesquisadas": [
     "PR",
     "MA",
@@ -1104,10 +1104,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/20e6e60458a9fbf89d63bc44efae6956",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "a929a8df6a481481b713ec6fd17fcdca6c6e718d",
    "falhas": [],
    "nota": "Novo (fonte secundária): Câmara de Cachoeiro de Itapemirim/ES (Auditor Interno Público, até 17/12). Alterados: Câmara de Quatro Barras reaberta até 24/11 (cruzamento de datas do PCI com o radar); Ribeirãozinho do Maranhão com prova 23/01/2027 e banca; Ilhota e Francisco Macedo encerradas. PCI sem itens novos (domingo). Nenhum edital oficial lido; nenhuma remoção."
   }
