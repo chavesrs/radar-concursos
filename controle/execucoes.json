@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 24,
+ "proxima_posicao": 3,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -1110,6 +1110,54 @@
    "github_commit": "a929a8df6a481481b713ec6fd17fcdca6c6e718d",
    "falhas": [],
    "nota": "Novo (fonte secundária): Câmara de Cachoeiro de Itapemirim/ES (Auditor Interno Público, até 17/12). Alterados: Câmara de Quatro Barras reaberta até 24/11 (cruzamento de datas do PCI com o radar); Ribeirãozinho do Maranhão com prova 23/01/2027 e banca; Ilhota e Francisco Macedo encerradas. PCI sem itens novos (domingo). Nenhum edital oficial lido; nenhuma remoção."
+  },
+  {
+   "data": "2026-11-16",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-16T09:55:50Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "DF",
+    "SE",
+    "TO",
+    "SP",
+    "BA",
+    "PA"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 60,
+   "editais_lidos": 2,
+   "registros_antes": 188,
+   "registros_depois": 186,
+   "novos": 2,
+   "alterados": 9,
+   "removidos": 4,
+   "confirmados_oficialmente_hoje": 1,
+   "pendentes_de_verificacao": 165,
+   "fontes_inacessiveis": [
+    "vunesp.com.br: bloqueio do site (HTTP 403)",
+    "conhecimento.fgv.br/concursos/inb26: página não encontrada (HTTP 404); comunicado de prorrogação da INB não localizado",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl",
+    "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Novo confirmado por edital oficial (FGV): SP Águas – Analista de Suporte à Regulação, ênfase Econômico-Financeira (4 vagas, R$ 10.366, inscrições 17/11–17/12, prova 31/01/2027). Novo por fonte secundária: IPMH Holambra/SP (Contador, inscrições a partir de 20/11). Edital Funpresp-Jud (Cebraspe) lido: prova já aplicada em 05/07/2026, não incluído. INB prorrogada até 18/11 (fonte secundária). Removidos 4 com prova em 15/11: Nova Prata do Iguaçu, Serra Alta, CISAMAVI e Benedito Novo."
   }
  ]
 }
