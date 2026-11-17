@@ -1163,7 +1163,7 @@
    "data": "2026-11-17",
    "tipo": "tarefa diária",
    "inicio": "2026-11-17T09:55:56Z",
-   "fim": null,
+   "fim": "2026-11-17T10:01:05Z",
    "ufs_pesquisadas": [
     "SC",
     "PI",
@@ -1199,10 +1199,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/5f6f762e6b2b736451ac2d063de33a4e",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "64a70dbcf5527312613e7af3a441c0fc4218acb4",
    "falhas": [],
    "nota": "Reconfirmado por edital oficial: TJPB – edital retificado de 11/11 (FGV) lido, sem mudança de datas; Contabilidade 5 vagas (3/1/1). Novos por fonte secundária: IFG/GO TAE (Técnico em Contabilidade e Auditor, inscrições 24/11–23/12), Prefeitura de São Mateus do Maranhão/MA (Contador, até 07/12) e Câmara de São José do Alegre/MG (Controlador Interno, inscrições em jan/2027). Alterados: Câmara de Ibiúna/SP (prorrogada até 23/11, prova 06/12), Ijuí/RS (novo cargo Analista de Controle Interno – Direito), Câmara de Lambari/MG (banca IBGP, edital 01/2026). Encerrados: Louveira, SAAE Iconha, Iporã do Oeste, Câmara de Joca Marques e Murutinga do Sul. Contagem encerra hoje, sem prorrogação localizada."
   }
