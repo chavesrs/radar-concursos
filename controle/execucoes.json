@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 3,
+ "proxima_posicao": 9,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -1158,6 +1158,53 @@
    "github_commit": "bb51d18f1e630485566565dfc8cc9d755be8688f",
    "falhas": [],
    "nota": "Novo confirmado por edital oficial (FGV): SP Águas – Analista de Suporte à Regulação, ênfase Econômico-Financeira (4 vagas, R$ 10.366, inscrições 17/11–17/12, prova 31/01/2027). Novo por fonte secundária: IPMH Holambra/SP (Contador, inscrições a partir de 20/11). Edital Funpresp-Jud (Cebraspe) lido: prova já aplicada em 05/07/2026, não incluído. INB prorrogada até 18/11 (fonte secundária). Removidos 4 com prova em 15/11: Nova Prata do Iguaçu, Serra Alta, CISAMAVI e Benedito Novo."
+  },
+  {
+   "data": "2026-11-17",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-17T09:55:56Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "SC",
+    "PI",
+    "AP",
+    "MG",
+    "PE",
+    "AM"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 58,
+   "editais_lidos": 1,
+   "registros_antes": 186,
+   "registros_depois": 189,
+   "novos": 3,
+   "alterados": 4,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 1,
+   "pendentes_de_verificacao": 168,
+   "fontes_inacessiveis": [
+    "vunesp.com.br: bloqueio do site (HTTP 403)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl",
+    "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Reconfirmado por edital oficial: TJPB – edital retificado de 11/11 (FGV) lido, sem mudança de datas; Contabilidade 5 vagas (3/1/1). Novos por fonte secundária: IFG/GO TAE (Técnico em Contabilidade e Auditor, inscrições 24/11–23/12), Prefeitura de São Mateus do Maranhão/MA (Contador, até 07/12) e Câmara de São José do Alegre/MG (Controlador Interno, inscrições em jan/2027). Alterados: Câmara de Ibiúna/SP (prorrogada até 23/11, prova 06/12), Ijuí/RS (novo cargo Analista de Controle Interno – Direito), Câmara de Lambari/MG (banca IBGP, edital 01/2026). Encerrados: Louveira, SAAE Iconha, Iporã do Oeste, Câmara de Joca Marques e Murutinga do Sul. Contagem encerra hoje, sem prorrogação localizada."
   }
  ]
 }
