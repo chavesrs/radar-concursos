@@ -1210,7 +1210,7 @@
    "data": "2026-11-18",
    "tipo": "tarefa diária",
    "inicio": "2026-11-18T09:56:11Z",
-   "fim": null,
+   "fim": "2026-11-18T10:00:45Z",
    "ufs_pesquisadas": [
     "GO",
     "RN",
@@ -1246,10 +1246,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/062b1892cb1cdde0b6f20ee67bc411d4",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "5d6261928e781490f3991f28b084b6c25eb8ae4f",
    "falhas": [],
    "nota": "Confirmado por leitura oficial: Prefeitura de Contagem/MG – Retificação nº 03 (17/11), edital consolidado e Anexo I lidos no portal da Prefeitura: inscrições prorrogadas até 03/12, prova 24/01/2027, Contador 3 vagas (R$ 6.020,23) e Auditor de Controle Interno – Ciências Contábeis 1 vaga (R$ 13.305,57). Alterados por fonte secundária: Câmara de Vila Boa/GO (banca ITAME, prova 17/01/2027, 1 vaga, R$ 3.674,71) e Prefeitura de São Vicente de Minas/MG (prova 13/12). Anchieta/ES passou automaticamente para inscrições abertas. Nenhum concurso novo encontrado nas UFs do dia; sem remoções."
   }
