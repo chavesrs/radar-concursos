@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 9,
+ "proxima_posicao": 15,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -1205,6 +1205,53 @@
    "github_commit": "64a70dbcf5527312613e7af3a441c0fc4218acb4",
    "falhas": [],
    "nota": "Reconfirmado por edital oficial: TJPB – edital retificado de 11/11 (FGV) lido, sem mudança de datas; Contabilidade 5 vagas (3/1/1). Novos por fonte secundária: IFG/GO TAE (Técnico em Contabilidade e Auditor, inscrições 24/11–23/12), Prefeitura de São Mateus do Maranhão/MA (Contador, até 07/12) e Câmara de São José do Alegre/MG (Controlador Interno, inscrições em jan/2027). Alterados: Câmara de Ibiúna/SP (prorrogada até 23/11, prova 06/12), Ijuí/RS (novo cargo Analista de Controle Interno – Direito), Câmara de Lambari/MG (banca IBGP, edital 01/2026). Encerrados: Louveira, SAAE Iconha, Iporã do Oeste, Câmara de Joca Marques e Murutinga do Sul. Contagem encerra hoje, sem prorrogação localizada."
+  },
+  {
+   "data": "2026-11-18",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-18T09:56:11Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "GO",
+    "RN",
+    "RR",
+    "RJ",
+    "CE",
+    "MT"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "vunesp.com.br",
+    "fundatec.org.br",
+    "ibfc.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br",
+    "institutoconsulplan.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 62,
+   "editais_lidos": 3,
+   "registros_antes": 189,
+   "registros_depois": 189,
+   "novos": 0,
+   "alterados": 4,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 1,
+   "pendentes_de_verificacao": 168,
+   "fontes_inacessiveis": [
+    "vunesp.com.br: bloqueio do site (HTTP 403)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl",
+    "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Confirmado por leitura oficial: Prefeitura de Contagem/MG – Retificação nº 03 (17/11), edital consolidado e Anexo I lidos no portal da Prefeitura: inscrições prorrogadas até 03/12, prova 24/01/2027, Contador 3 vagas (R$ 6.020,23) e Auditor de Controle Interno – Ciências Contábeis 1 vaga (R$ 13.305,57). Alterados por fonte secundária: Câmara de Vila Boa/GO (banca ITAME, prova 17/01/2027, 1 vaga, R$ 3.674,71) e Prefeitura de São Vicente de Minas/MG (prova 13/12). Anchieta/ES passou automaticamente para inscrições abertas. Nenhum concurso novo encontrado nas UFs do dia; sem remoções."
   }
  ]
 }
