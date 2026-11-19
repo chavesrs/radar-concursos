@@ -1257,7 +1257,7 @@
    "data": "2026-11-19",
    "tipo": "tarefa diária",
    "inicio": "2026-11-19T09:55:42Z",
-   "fim": null,
+   "fim": "2026-11-19T10:00:12Z",
    "ufs_pesquisadas": [
     "RS",
     "PB",
@@ -1286,10 +1286,10 @@
     "WebFetch: limitação da ferramenta (DNS); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/1fc7acf5db8cd38859a6250e981cb3fa",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "f81dc59409754be192fb967c63ea7fb9fd56258f",
    "falhas": [],
    "nota": "Novo confirmado por edital oficial (FCC, lido): Governo do Maranhão – SEAD Edital 01/2026 – Auditor Área Geral/STC (14 vagas, R$ 14.950,78), Analista de Planejamento e Finanças Públicas – Finanças e Controle/SEPLAN (6 vagas, R$ 11.662,98) e Técnico em Contabilidade/SEAD (13 vagas); inscrições 14/12/2026–29/01/2027, prova 04/04/2027. Novos por fonte secundária: Prefeitura de Tijucas/SC Edital 03/2026 (Contador e Controlador Interno, 24/11–05/01) e SAAE de Águas de Lindóia/SP (Controlador Interno, 20/11–21/12). Datas de prova acrescentadas (fonte secundária): Câmara de Unaí/MG (10/01/2027), Câmara de Erval Velho/SC (06/12), Itapororoca/PB (20/12) e Ferreiros/PE (20/12). Encerrados: TJPB, Câmara de Cristalina, INB, SAAE de Pirapora, Câmara de Lambari, Câmara de Vila Boa e Câmara de Pires do Rio. Abertos automaticamente: Câmara de Águas Frias/SC e Muqui/ES. Edital do TRF3 não pôde ser baixado."
   }
