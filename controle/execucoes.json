@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 15,
+ "proxima_posicao": 21,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -1252,6 +1252,46 @@
    "github_commit": "5d6261928e781490f3991f28b084b6c25eb8ae4f",
    "falhas": [],
    "nota": "Confirmado por leitura oficial: Prefeitura de Contagem/MG – Retificação nº 03 (17/11), edital consolidado e Anexo I lidos no portal da Prefeitura: inscrições prorrogadas até 03/12, prova 24/01/2027, Contador 3 vagas (R$ 6.020,23) e Auditor de Controle Interno – Ciências Contábeis 1 vaga (R$ 13.305,57). Alterados por fonte secundária: Câmara de Vila Boa/GO (banca ITAME, prova 17/01/2027, 1 vaga, R$ 3.674,71) e Prefeitura de São Vicente de Minas/MG (prova 13/12). Anchieta/ES passou automaticamente para inscrições abertas. Nenhum concurso novo encontrado nas UFs do dia; sem remoções."
+  },
+  {
+   "data": "2026-11-19",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-19T09:55:42Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "RS",
+    "PB",
+    "AC",
+    "PR",
+    "MA",
+    "MS"
+   ],
+   "bancas_consultadas_no_site": [
+    "concursosfcc.com.br",
+    "vunesp.com.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 60,
+   "editais_lidos": 1,
+   "registros_antes": 189,
+   "registros_depois": 192,
+   "novos": 3,
+   "alterados": 13,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 1,
+   "pendentes_de_verificacao": 170,
+   "fontes_inacessiveis": [
+    "vunesp.com.br: bloqueio do site (HTTP 403)",
+    "trf3.jus.br: erro do site ao baixar o edital (HTTP/2 INTERNAL_ERROR, 2 tentativas)",
+    "WebFetch: limitação da ferramenta (DNS); leitura com curl",
+    "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Novo confirmado por edital oficial (FCC, lido): Governo do Maranhão – SEAD Edital 01/2026 – Auditor Área Geral/STC (14 vagas, R$ 14.950,78), Analista de Planejamento e Finanças Públicas – Finanças e Controle/SEPLAN (6 vagas, R$ 11.662,98) e Técnico em Contabilidade/SEAD (13 vagas); inscrições 14/12/2026–29/01/2027, prova 04/04/2027. Novos por fonte secundária: Prefeitura de Tijucas/SC Edital 03/2026 (Contador e Controlador Interno, 24/11–05/01) e SAAE de Águas de Lindóia/SP (Controlador Interno, 20/11–21/12). Datas de prova acrescentadas (fonte secundária): Câmara de Unaí/MG (10/01/2027), Câmara de Erval Velho/SC (06/12), Itapororoca/PB (20/12) e Ferreiros/PE (20/12). Encerrados: TJPB, Câmara de Cristalina, INB, SAAE de Pirapora, Câmara de Lambari, Câmara de Vila Boa e Câmara de Pires do Rio. Abertos automaticamente: Câmara de Águas Frias/SC e Muqui/ES. Edital do TRF3 não pôde ser baixado."
   }
  ]
 }
