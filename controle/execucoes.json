@@ -1297,7 +1297,7 @@
    "data": "2026-11-20",
    "tipo": "tarefa diária",
    "inicio": "2026-11-20T09:56:12Z",
-   "fim": null,
+   "fim": "2026-11-20T09:59:35Z",
    "ufs_pesquisadas": [
     "ES",
     "AL",
@@ -1332,10 +1332,10 @@
     "WebFetch: limitação da ferramenta (indisponível/DNS); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/b59da9b8ecf80dbb21a77f7219a1086b",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "d87d49ddd51dd0e7a9fa2c4c7377564218950231",
    "falhas": [],
    "nota": "Novos por fonte secundária (PCI): Prefeitura de Vargem Grande do Sul/SP (Contador, 30/11–15/12, prova 24/01/2027), Prefeitura de Cândido Rodrigues/SP (Controlador Interno e Contador CR, 20/11–04/12, prova 17/01/2027) e Prefeitura de Sede Nova/RS (Contador e Técnico Contábil, 19/11–18/12, prova 24/01/2027). Datas de prova e bancas acrescentadas por fonte secundária: Ipê/RS (17/01/2027), Novo Cabrais/RS (10/01/2027), Luiz Alves/SC (13/12), Quedas do Iguaçu/PR (13/12), SAMASA Três Barras/SC (13/12) e Câmara de Nova Ponte/MG (banca Versátil). Encerrados: FJPO Campinas, São Vicente de Minas, Ferreiros, Ijuí, PREVIJUÍ, Nova Pádua, Câmara de Piúma e Iperó. Abertos automaticamente: IPMH Holambra e SAAE de Águas de Lindóia. Nenhum edital oficial lido hoje (IDECAN bloqueado)."
   }
