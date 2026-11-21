@@ -1343,7 +1343,7 @@
    "data": "2026-11-21",
    "tipo": "tarefa diária",
    "inicio": "2026-11-21T09:56:05Z",
-   "fim": null,
+   "fim": "2026-11-21T09:58:24Z",
    "ufs_pesquisadas": [
     "SP",
     "BA",
@@ -1376,10 +1376,10 @@
     "WebFetch: limitação da ferramenta (indisponível); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/b657067b7e38fe95f6dbb13135ab0a3d",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "5cd07bee27c9e6ea958801848465e410bf2f222e",
    "falhas": [],
    "nota": "Nenhum concurso novo encontrado (PCI sem novidades relevantes; buscas nas UFs SP, BA, PA, SC, PI e AP só trouxeram certames já listados, encerrados ou sem cargo da área). Ajustes por fonte secundária: Câmara de Matos Costa/SC (Contador R$ 4.209,63, 15h), bancas da Câmara de São Geraldo do Araguaia (ICAP), Câmara de Dom Inocêncio (IGE; cargo Analista Legislativo – Contador) e Câmara de Joca Marques (Legatus). Encerrados: Câmara de Erval Velho e Itapororoca. Removido: Queimados/RJ (prova em 20/11)."
   }
