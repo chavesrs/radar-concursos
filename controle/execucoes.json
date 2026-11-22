@@ -1387,7 +1387,7 @@
    "data": "2026-11-22",
    "tipo": "tarefa diária",
    "inicio": "2026-11-22T09:55:36Z",
-   "fim": null,
+   "fim": "2026-11-22T09:58:40Z",
    "ufs_pesquisadas": [
     "MG",
     "PE",
@@ -1418,10 +1418,10 @@
     "WebFetch: limitação da ferramenta (indisponível); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/07c34103c188319f7e04afb63f3e9ca4",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "380c1f14f3b1b74964dce13f6d13d44a91c8a5b6",
    "falhas": [],
    "nota": "Nenhum concurso novo encontrado (PCI só com notícias antigas/processos seletivos; buscas nas UFs MG, PE, AM, GO, RN e RR trouxeram certames já listados ou encerrados). Ajustes por fonte secundária: Câmara de Lambari/MG (prova 20/12/2026, Contador 1 vaga, R$ 5.500 — mantida em vez de removida), Câmara de Ibiúna/SP (banca ABCP, R$ 5.570,09) e Câmara de Mutunópolis/GO (Contador 1 vaga, R$ 5.000; prova hoje). Encerrado: Cunha/SP. Removido: Câmara de Descanso/SC (prova em 21/11)."
   }
