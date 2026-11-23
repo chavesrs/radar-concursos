@@ -1429,7 +1429,7 @@
    "data": "2026-11-23",
    "tipo": "tarefa diária",
    "inicio": "2026-11-23T09:55:40Z",
-   "fim": null,
+   "fim": "2026-11-23T09:58:58Z",
    "ufs_pesquisadas": [
     "RJ",
     "CE",
@@ -1464,10 +1464,10 @@
     "WebFetch: limitação da ferramenta (indisponível); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/5545590654eda64afaa7b75438af0767",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "1dd958d9ff3df6de6d387fdd6b3ccacbdc06e3a1",
    "falhas": [],
    "nota": "Confirmado por edital oficial (Instituto Consulplan, lido): Câmara de Unaí/MG – Analista de Atividades da Secretaria – Contador, 1 vaga + CR, R$ 9.193,89, inscrições até 01/12, provas em 10/01/2027; conteúdo programático conferido (AFO, CASP/MCASP, Custos, Auditoria e Controle). Nenhum concurso novo. Encerrado: Câmara de Aral Moreira/MS. Removidos 22: 21 com prova em 22/11 (entre eles TCDF, SEF/SC, Câmara de Mutunópolis, Câmara de Paraíso das Águas, Imbituba, Corupá, São Sebastião Prev) e PREVIJUÍ (encerrado em 19/11 sem data de prova localizada após busca)."
   }
