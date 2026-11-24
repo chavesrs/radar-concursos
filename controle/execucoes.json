@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 18,
+ "proxima_posicao": 24,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -1470,6 +1470,50 @@
    "github_commit": "1dd958d9ff3df6de6d387fdd6b3ccacbdc06e3a1",
    "falhas": [],
    "nota": "Confirmado por edital oficial (Instituto Consulplan, lido): Câmara de Unaí/MG – Analista de Atividades da Secretaria – Contador, 1 vaga + CR, R$ 9.193,89, inscrições até 01/12, provas em 10/01/2027; conteúdo programático conferido (AFO, CASP/MCASP, Custos, Auditoria e Controle). Nenhum concurso novo. Encerrado: Câmara de Aral Moreira/MS. Removidos 22: 21 com prova em 22/11 (entre eles TCDF, SEF/SC, Câmara de Mutunópolis, Câmara de Paraíso das Águas, Imbituba, Corupá, São Sebastião Prev) e PREVIJUÍ (encerrado em 19/11 sem data de prova localizada após busca)."
+  },
+  {
+   "data": "2026-11-24",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-24T09:56:07Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "PR",
+    "MA",
+    "MS",
+    "ES",
+    "AL",
+    "RO"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "fundatec.org.br",
+    "institutoconsulplan.org.br",
+    "institutoaocp.org.br",
+    "quadrix.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 60,
+   "editais_lidos": 0,
+   "registros_antes": 171,
+   "registros_depois": 178,
+   "novos": 7,
+   "alterados": 10,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 0,
+   "pendentes_de_verificacao": 157,
+   "fontes_inacessiveis": [
+    "vunesp.com.br: bloqueio do site (HTTP 403)",
+    "WebFetch: limitação da ferramenta (indisponível); leitura com curl",
+    "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Novos por fonte secundária (PCI, 23/11): Prefeitura de Adolfo/SP (Contador, 30/11–21/12), Prefeitura de Altair/SP (Contador e Controlador Interno, até 06/12, prova 24/01/2027), Prefeitura de Iepê/SP (Controlador Interno, até 20/12), Prefeitura de Itupeva/SP (Contador 2 vagas, 30/11–27/12, prova 07/03/2027), Prefeitura de Lutécia/SP (Contador CR, até 10/12), Prefeitura de São Miguel dos Milagres/AL (Contador e Controlador Interno, até 23/12, prova 31/01/2027) e Prefeitura de Sete Barras/SP (Contador, 27/11–20/12, prova 10/01/2027). Encerrados: Câmara de Ibiúna, Ipê, Novo Cabrais, Luiz Alves, Monteiro Lobato, Câmara de São Geraldo do Araguaia, Pirapozinho e TRF3. Abertos automaticamente: IFG (TAE) e Tijucas (Edital 03/2026). Nenhum edital oficial lido hoje."
   }
  ]
 }
