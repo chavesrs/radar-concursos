@@ -1475,7 +1475,7 @@
    "data": "2026-11-24",
    "tipo": "tarefa diária",
    "inicio": "2026-11-24T09:56:07Z",
-   "fim": null,
+   "fim": "2026-11-24T09:59:14Z",
    "ufs_pesquisadas": [
     "PR",
     "MA",
@@ -1508,10 +1508,10 @@
     "WebFetch: limitação da ferramenta (indisponível); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/0817fa200fc4f33eb21f9b60f4a2804b",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "7168ec45f735b9687ce9222e619bef0a5df0c1e5",
    "falhas": [],
    "nota": "Novos por fonte secundária (PCI, 23/11): Prefeitura de Adolfo/SP (Contador, 30/11–21/12), Prefeitura de Altair/SP (Contador e Controlador Interno, até 06/12, prova 24/01/2027), Prefeitura de Iepê/SP (Controlador Interno, até 20/12), Prefeitura de Itupeva/SP (Contador 2 vagas, 30/11–27/12, prova 07/03/2027), Prefeitura de Lutécia/SP (Contador CR, até 10/12), Prefeitura de São Miguel dos Milagres/AL (Contador e Controlador Interno, até 23/12, prova 31/01/2027) e Prefeitura de Sete Barras/SP (Contador, 27/11–20/12, prova 10/01/2027). Encerrados: Câmara de Ibiúna, Ipê, Novo Cabrais, Luiz Alves, Monteiro Lobato, Câmara de São Geraldo do Araguaia, Pirapozinho e TRF3. Abertos automaticamente: IFG (TAE) e Tijucas (Edital 03/2026). Nenhum edital oficial lido hoje."
   }
