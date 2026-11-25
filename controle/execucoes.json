@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 24,
+ "proxima_posicao": 3,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -1514,6 +1514,47 @@
    "github_commit": "7168ec45f735b9687ce9222e619bef0a5df0c1e5",
    "falhas": [],
    "nota": "Novos por fonte secundária (PCI, 23/11): Prefeitura de Adolfo/SP (Contador, 30/11–21/12), Prefeitura de Altair/SP (Contador e Controlador Interno, até 06/12, prova 24/01/2027), Prefeitura de Iepê/SP (Controlador Interno, até 20/12), Prefeitura de Itupeva/SP (Contador 2 vagas, 30/11–27/12, prova 07/03/2027), Prefeitura de Lutécia/SP (Contador CR, até 10/12), Prefeitura de São Miguel dos Milagres/AL (Contador e Controlador Interno, até 23/12, prova 31/01/2027) e Prefeitura de Sete Barras/SP (Contador, 27/11–20/12, prova 10/01/2027). Encerrados: Câmara de Ibiúna, Ipê, Novo Cabrais, Luiz Alves, Monteiro Lobato, Câmara de São Geraldo do Araguaia, Pirapozinho e TRF3. Abertos automaticamente: IFG (TAE) e Tijucas (Edital 03/2026). Nenhum edital oficial lido hoje."
+  },
+  {
+   "data": "2026-11-25",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-25T09:56:26Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "DF",
+    "SE",
+    "TO",
+    "SP",
+    "BA",
+    "PA"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 55,
+   "editais_lidos": 1,
+   "registros_antes": 178,
+   "registros_depois": 180,
+   "novos": 2,
+   "alterados": 3,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 1,
+   "pendentes_de_verificacao": 146,
+   "fontes_inacessiveis": [
+    "vunesp.com.br: bloqueio do site (HTTP 403)",
+    "folha.qconcursos.com: bloqueio de rede (proxy CONNECT 403)",
+    "WebFetch: limitação da ferramenta (indisponível); leitura com curl",
+    "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Novos: CRO-PR (Contador, FGV, Edital 01/2026 lido no site da FGV: 1 vaga, R$ 8.487,34, inscrições 30/11–29/12, prova 28/02/2027) e Câmara de Cachoeira de Minas/MG (Controlador Interno, GL Consultoria, inscrições 18/01–18/02/2027, prova 07/03/2027; fonte secundária). Alterado: Câmara de Santa Terezinha do Progresso/SC — concurso suspenso cautelarmente (notícia de 19/11). Encerrados: Câmaras de Tiradentes/MG e Quatro Barras/PR. Pistas sem datas não incluídas: Câmara de Vargem Grande do Sul/SP (analista contábil), IPREM São Manuel/SP e IMPRAL Altinópolis/SP (contador)."
   }
  ]
 }
