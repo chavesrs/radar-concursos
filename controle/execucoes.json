@@ -1519,7 +1519,7 @@
    "data": "2026-11-25",
    "tipo": "tarefa diária",
    "inicio": "2026-11-25T09:56:26Z",
-   "fim": null,
+   "fim": "2026-11-25T10:00:34Z",
    "ufs_pesquisadas": [
     "DF",
     "SE",
@@ -1549,10 +1549,10 @@
     "WebFetch: limitação da ferramenta (indisponível); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/9bfc988e5225e812972b9ed6352042e9",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "a1cb94512669278b29adbdb7b02d9867175a1d63",
    "falhas": [],
    "nota": "Novos: CRO-PR (Contador, FGV, Edital 01/2026 lido no site da FGV: 1 vaga, R$ 8.487,34, inscrições 30/11–29/12, prova 28/02/2027) e Câmara de Cachoeira de Minas/MG (Controlador Interno, GL Consultoria, inscrições 18/01–18/02/2027, prova 07/03/2027; fonte secundária). Alterado: Câmara de Santa Terezinha do Progresso/SC — concurso suspenso cautelarmente (notícia de 19/11). Encerrados: Câmaras de Tiradentes/MG e Quatro Barras/PR. Pistas sem datas não incluídas: Câmara de Vargem Grande do Sul/SP (analista contábil), IPREM São Manuel/SP e IMPRAL Altinópolis/SP (contador)."
   }
