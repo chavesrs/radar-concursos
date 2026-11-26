@@ -1560,7 +1560,7 @@
    "data": "2026-11-26",
    "tipo": "tarefa diária",
    "inicio": "2026-11-26T09:55:43Z",
-   "fim": null,
+   "fim": "2026-11-26T09:59:25Z",
    "ufs_pesquisadas": [
     "SC",
     "PI",
@@ -1597,10 +1597,10 @@
     "WebFetch: limitação da ferramenta (indisponível); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/93ff7f33892c627efa64e07394ab028d",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "cd5f07c2271ec9f24cb1bb11d9b4e7f45613feec",
    "falhas": [],
    "nota": "Novos por fonte secundária (PCI, 25/11): Cofen/DF (Contador CR, Quadrix, 26/11–11/01/2027, prova 28/02/2027), Coren-SP (Contador CR e Auditor, Quadrix, 26/11–11/01/2027, prova 07/03/2027), Prefeitura de Chapecó/SC (Contador, Objetiva, 07/12–07/01/2027, prova 14/02/2027), Prefeitura de Rio Grande da Serra/SP (Contador, IBAM, até 23/12, prova 31/01/2027) e Prefeitura de Inúbia Paulista/SP (Controlador Interno CR, IPELL, até 16/12, prova 10/01/2027). Observações atualizadas: Câmara de São Francisco do Sul (retificação) e Prefeitura de Ibirama (data de prova divergente). Encerrados: Quedas do Iguaçu, TRT4, Suzano e Piratini. Editais da Quadrix não puderam ser lidos (bloqueio do site). Contêiner recriado: listas de comparação da PCI refeitas a partir do próprio concursos.json."
   }
