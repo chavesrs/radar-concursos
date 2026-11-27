@@ -1608,7 +1608,7 @@
    "data": "2026-11-27",
    "tipo": "tarefa diária",
    "inicio": "2026-11-27T09:56:17Z",
-   "fim": null,
+   "fim": "2026-11-27T09:59:02Z",
    "ufs_pesquisadas": [
     "GO",
     "RN",
@@ -1643,10 +1643,10 @@
     "WebFetch: limitação da ferramenta (indisponível); leitura com curl",
     "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
    ],
-   "painel_atualizado": false,
-   "painel_arquivo": null,
+   "painel_atualizado": true,
+   "painel_arquivo": "/_blob/adb21106cfccfe14897e0e569f7da5e4",
    "github_atualizado": true,
-   "github_commit": null,
+   "github_commit": "a3ec31fd4b7b7f3d1fc7db9baae7de4a1eff34b2",
    "falhas": [],
    "nota": "Novos por fonte secundária (PCI, 26/11): Câmara de Maxaranguape/RN (Controlador Interno, FACET, até 26/12, prova 31/01/2027), Câmara de Pinhão/PR (Contador CR, OMNI, 27/11–28/12, prova 17/01/2027), CRF/MG (Contador CR e Técnico em Contabilidade, Ibest, até 21/12, prova 21/02/2027) e Prefeitura e Câmara de Rio Branco/MT (Contador, Controlador Interno e Auditor Fiscal, CEIBTEC, 04/12–07/01/2027, prova 24/01/2027). Página oficial lida: ALEMS na FCC (concurso já homologado, não incluído). Encerrados: Câmaras de Nova Ponte e Matos Costa e SAMASA de Três Barras. Abertos automaticamente: Hospital Municipal Dr. Gil Alves e Sete Barras. Contagem: prorrogação até 03/12 já constava do edital oficial (Retificação nº 03), mantida."
   }
