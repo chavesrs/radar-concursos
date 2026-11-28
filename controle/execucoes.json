@@ -30,7 +30,7 @@
   "TO"
  ],
  "ufs_por_execucao": 6,
- "proxima_posicao": 15,
+ "proxima_posicao": 21,
  "execucoes": [
   {
    "data": "2026-10-25",
@@ -1649,6 +1649,52 @@
    "github_commit": "a3ec31fd4b7b7f3d1fc7db9baae7de4a1eff34b2",
    "falhas": [],
    "nota": "Novos por fonte secundária (PCI, 26/11): Câmara de Maxaranguape/RN (Controlador Interno, FACET, até 26/12, prova 31/01/2027), Câmara de Pinhão/PR (Contador CR, OMNI, 27/11–28/12, prova 17/01/2027), CRF/MG (Contador CR e Técnico em Contabilidade, Ibest, até 21/12, prova 21/02/2027) e Prefeitura e Câmara de Rio Branco/MT (Contador, Controlador Interno e Auditor Fiscal, CEIBTEC, 04/12–07/01/2027, prova 24/01/2027). Página oficial lida: ALEMS na FCC (concurso já homologado, não incluído). Encerrados: Câmaras de Nova Ponte e Matos Costa e SAMASA de Três Barras. Abertos automaticamente: Hospital Municipal Dr. Gil Alves e Sete Barras. Contagem: prorrogação até 03/12 já constava do edital oficial (Retificação nº 03), mantida."
+  },
+  {
+   "data": "2026-11-28",
+   "tipo": "tarefa diária",
+   "inicio": "2026-11-28T09:55:38Z",
+   "fim": null,
+   "ufs_pesquisadas": [
+    "RS",
+    "PB",
+    "AC",
+    "PR",
+    "MA",
+    "MS"
+   ],
+   "bancas_consultadas_no_site": [
+    "cebraspe.org.br",
+    "conhecimento.fgv.br",
+    "concursosfcc.com.br",
+    "fundatec.org.br",
+    "institutoconsulplan.org.br",
+    "quadrix.org.br",
+    "institutoaocp.org.br",
+    "idecan.org.br"
+   ],
+   "buscas": 30,
+   "concursos_examinados": 60,
+   "editais_lidos": 0,
+   "registros_antes": 189,
+   "registros_depois": 192,
+   "novos": 3,
+   "alterados": 1,
+   "removidos": 0,
+   "confirmados_oficialmente_hoje": 0,
+   "pendentes_de_verificacao": 170,
+   "fontes_inacessiveis": [
+    "vunesp.com.br: bloqueio do site (HTTP 403)",
+    "2026cpvargem.fepese.org.br: bloqueio de rede (proxy CONNECT 403)",
+    "WebFetch: limitação da ferramenta (indisponível); leitura com curl",
+    "mcp__claude-artifacts: ferramentas novas do painel indisponíveis; usadas ArtifactData/Artifact (fallback P11)"
+   ],
+   "painel_atualizado": false,
+   "painel_arquivo": null,
+   "github_atualizado": true,
+   "github_commit": null,
+   "falhas": [],
+   "nota": "Novos por fonte secundária (PCI, 27/11): Prefeitura de Itu/SP (Contador e Técnico em Contabilidade, IGECS, 27/11–15/02/2027, prova 21/03/2027), Prefeitura de Vargem/SC (Contador, FEPESE, 27/11–28/12, prova 31/01/2027) e UNITAU/SP (Contador, EPTS, 01–21/12, prova 24/01/2027). Aberto automaticamente: São Pedro da União/MG. Nenhum edital oficial lido (página da FEPESE bloqueada pela rede). Buscas de retificação (Portel, Aracruz, Cuiabá, Unaí, Ibirama, São João do Piauí, Uirapuru, Guabiju) sem prorrogações encontradas."
   }
  ]
 }
